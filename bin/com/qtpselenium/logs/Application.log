@@ -1,0 +1,131 @@
+17/12/2015 06:24:34 devpinoyLogger Start
+17/12/2015 06:24:34 devpinoyLogger Properties Loaded. Testing Started
+17/12/2015 06:24:34 devpinoyLogger Initialize suite xlsx
+17/12/2015 06:24:35 devpinoyLogger A Suite--N
+17/12/2015 06:24:35 devpinoyLogger B Suite--N
+17/12/2015 06:24:35 devpinoyLogger C Suite--Y
+17/12/2015 06:24:35 devpinoyLogger ***Exceuting***C Suite
+17/12/2015 06:24:35 devpinoyLogger Login --N
+17/12/2015 06:24:35 devpinoyLogger Appointment_Creation--N
+17/12/2015 06:24:35 devpinoyLogger Clinical_Notes_Pre_Test--N
+17/12/2015 06:24:35 devpinoyLogger Clinical_Notes_History--N
+17/12/2015 06:24:35 devpinoyLogger Clinical_Notes_Investigate--N
+17/12/2015 06:24:35 devpinoyLogger Eye_Health--Y
+17/12/2015 06:24:35 devpinoyLogger Exceution of test case   Eye_Health
+17/12/2015 06:24:35 devpinoyLogger openBrowser
+17/12/2015 06:24:35 devpinoyLogger Opening the browser
+17/12/2015 06:24:37 devpinoyLogger Pass
+17/12/2015 06:24:37 devpinoyLogger navigate
+17/12/2015 06:24:37 devpinoyLogger Navigating to URL
+17/12/2015 06:24:45 devpinoyLogger Pass
+17/12/2015 06:24:45 devpinoyLogger writeInInput
+17/12/2015 06:24:45 devpinoyLogger Writing in text box
+17/12/2015 06:24:45 devpinoyLogger Pass
+17/12/2015 06:24:45 devpinoyLogger writeInInput
+17/12/2015 06:24:45 devpinoyLogger Writing in text box
+17/12/2015 06:24:45 devpinoyLogger Pass
+17/12/2015 06:24:45 devpinoyLogger verifyTextinInput
+17/12/2015 06:24:45 devpinoyLogger Verifying the text in input box
+17/12/2015 06:24:45 devpinoyLogger Pass
+17/12/2015 06:24:45 devpinoyLogger verifyTextinInput
+17/12/2015 06:24:45 devpinoyLogger Verifying the text in input box
+17/12/2015 06:24:45 devpinoyLogger Pass
+17/12/2015 06:24:45 devpinoyLogger verifyButtonText
+17/12/2015 06:24:45 devpinoyLogger Verifying the button text
+17/12/2015 06:24:45 devpinoyLogger Pass
+17/12/2015 06:24:45 devpinoyLogger clickButton
+17/12/2015 06:24:45 devpinoyLogger Clicking on Button
+17/12/2015 06:24:45 devpinoyLogger Pass
+17/12/2015 06:24:45 devpinoyLogger clickButton
+17/12/2015 06:24:45 devpinoyLogger Clicking on Button
+17/12/2015 06:24:53 devpinoyLogger Pass
+17/12/2015 06:24:53 devpinoyLogger pause
+17/12/2015 06:24:53 devpinoyLogger Waiting
+17/12/2015 06:24:58 devpinoyLogger Pass
+17/12/2015 06:24:58 devpinoyLogger clickButton
+17/12/2015 06:24:58 devpinoyLogger Clicking on Button
+17/12/2015 06:24:58 devpinoyLogger Pass
+17/12/2015 06:24:58 devpinoyLogger pause
+17/12/2015 06:24:58 devpinoyLogger Waiting
+17/12/2015 06:25:01 devpinoyLogger Pass
+17/12/2015 06:25:01 devpinoyLogger Right_Click_for_Clinical_Notes
+17/12/2015 06:25:01 devpinoyLogger Clicking Right Click
+17/12/2015 06:25:09 devpinoyLogger Pass
+17/12/2015 06:25:09 devpinoyLogger clickButton
+17/12/2015 06:25:09 devpinoyLogger Clicking on Button
+17/12/2015 06:25:11 devpinoyLogger Pass
+17/12/2015 06:25:11 devpinoyLogger clickButton
+17/12/2015 06:25:11 devpinoyLogger Clicking on Button
+17/12/2015 06:25:11 devpinoyLogger Pass
+17/12/2015 06:25:11 devpinoyLogger clickButton
+17/12/2015 06:25:11 devpinoyLogger Clicking on Button
+17/12/2015 06:25:11 devpinoyLogger Pass
+17/12/2015 06:25:11 devpinoyLogger pause
+17/12/2015 06:25:11 devpinoyLogger Waiting
+17/12/2015 06:25:14 devpinoyLogger Pass
+17/12/2015 06:25:14 devpinoyLogger scroll_down
+17/12/2015 06:25:14 devpinoyLogger scroll down to element
+17/12/2015 06:25:14 devpinoyLogger Pass
+17/12/2015 06:25:14 devpinoyLogger clickButton
+17/12/2015 06:25:14 devpinoyLogger Clicking on Button
+17/12/2015 06:25:14 devpinoyLogger Pass
+17/12/2015 06:25:14 devpinoyLogger pause
+17/12/2015 06:25:14 devpinoyLogger Waiting
+17/12/2015 06:25:17 devpinoyLogger Pass
+17/12/2015 06:25:17 devpinoyLogger clickButton
+17/12/2015 06:25:17 devpinoyLogger Clicking on Button
+17/12/2015 06:25:17 devpinoyLogger Pass
+17/12/2015 06:25:17 devpinoyLogger pause
+17/12/2015 06:25:17 devpinoyLogger Waiting
+17/12/2015 06:25:19 devpinoyLogger Pass
+17/12/2015 06:25:19 devpinoyLogger clickButton
+17/12/2015 06:25:19 devpinoyLogger Clicking on Button
+17/12/2015 06:25:19 devpinoyLogger Pass
+17/12/2015 06:25:19 devpinoyLogger clickButton
+17/12/2015 06:25:19 devpinoyLogger Clicking on Button
+17/12/2015 06:25:19 devpinoyLogger Pass
+17/12/2015 06:25:19 devpinoyLogger clickButton
+17/12/2015 06:25:19 devpinoyLogger Clicking on Button
+17/12/2015 06:25:20 devpinoyLogger Pass
+17/12/2015 06:25:20 devpinoyLogger pause
+17/12/2015 06:25:20 devpinoyLogger Waiting
+17/12/2015 06:25:22 devpinoyLogger Pass
+17/12/2015 06:25:22 devpinoyLogger clickButton
+17/12/2015 06:25:22 devpinoyLogger Clicking on Button
+17/12/2015 06:25:22 devpinoyLogger Pass
+17/12/2015 06:25:22 devpinoyLogger clickButton
+17/12/2015 06:25:22 devpinoyLogger Clicking on Button
+17/12/2015 06:25:22 devpinoyLogger Pass
+17/12/2015 06:25:22 devpinoyLogger pause
+17/12/2015 06:25:22 devpinoyLogger Waiting
+17/12/2015 06:25:32 devpinoyLogger Pass
+17/12/2015 06:25:32 devpinoyLogger clickButton
+17/12/2015 06:25:32 devpinoyLogger Clicking on Button
+17/12/2015 06:25:32 devpinoyLogger Pass
+17/12/2015 06:25:32 devpinoyLogger clickButton
+17/12/2015 06:25:32 devpinoyLogger Clicking on Button
+17/12/2015 06:25:32 devpinoyLogger Pass
+17/12/2015 06:25:32 devpinoyLogger clickButton
+17/12/2015 06:25:32 devpinoyLogger Clicking on Button
+17/12/2015 06:25:32 devpinoyLogger Pass
+17/12/2015 06:25:32 devpinoyLogger writeInInput
+17/12/2015 06:25:32 devpinoyLogger Writing in text box
+17/12/2015 06:25:32 devpinoyLogger Pass
+17/12/2015 06:25:32 devpinoyLogger pause
+17/12/2015 06:25:32 devpinoyLogger Waiting
+17/12/2015 06:25:35 devpinoyLogger Pass
+17/12/2015 06:25:35 devpinoyLogger clickButton
+17/12/2015 06:25:35 devpinoyLogger Clicking on Button
+17/12/2015 06:25:35 devpinoyLogger Pass
+17/12/2015 06:25:35 devpinoyLogger clickButton
+17/12/2015 06:25:35 devpinoyLogger Clicking on Button
+17/12/2015 06:25:35 devpinoyLogger Pass
+17/12/2015 06:25:35 devpinoyLogger clickButton
+17/12/2015 06:25:35 devpinoyLogger Clicking on Button
+17/12/2015 06:25:35 devpinoyLogger Pass
+17/12/2015 06:25:35 devpinoyLogger pause
+17/12/2015 06:25:35 devpinoyLogger Waiting
+17/12/2015 06:25:38 devpinoyLogger Pass
+17/12/2015 06:25:38 devpinoyLogger writeInInput
+17/12/2015 06:25:38 devpinoyLogger Writing in text box
+17/12/2015 06:25:38 devpinoyLogger Pass
