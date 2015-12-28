@@ -164,7 +164,7 @@ public class keywords {
 			try
 			{
 				String checked=driver.findElement(By.xpath(OR.getProperty(object))).getAttribute("checked");
-				System.out.println(checked);
+				//System.out.println(checked);
 				if(checked==null)
 				{
 					return Constants.KEYWORD_FAIL+"- Radio not selected";	
@@ -292,9 +292,17 @@ public class keywords {
 				return Constants.KEYWORD_PASS;
 		}
 		
-		public  String click(){
+		public  String click_and_clear(String object,String data){
 		       APP_LOGS.debug("Clicking on any element");
-				
+				try{
+					
+					driver.findElement(By.xpath(OR.getProperty(object))).clear();
+					
+				}
+				catch(Exception e)
+				{
+					return Constants.KEYWORD_FAIL+"Unable to click" + e.getMessage();
+				}
 				return Constants.KEYWORD_PASS;
 		}
 		
@@ -708,7 +716,68 @@ public class keywords {
 			return Constants.KEYWORD_PASS;
 		}
 		
+		public String Refracted_values(String object,String data)
+		{
+			APP_LOGS.debug("Entering Refracted values ");
+		try
+		{
+			String temp = object; 
+			String[] str = temp.split("\\|");
+			double autok[] = {1.19,2.79,56,-2.8,-3.95,111,6,8,11,5,7,8,3,4,5,6,10.5,11.75,8.8,7.7,4.4,6.78};
+			for(int j=0; j<22; j++)
+			{
+				object = str[0];
+				driver.findElement(By.xpath(OR.getProperty(object))).clear();
+				driver.findElement(By.xpath(OR.getProperty(object))).sendKeys(""+autok[j]);
+				Thread.sleep(1000);
+				object = str[1];
+				clickButton(object, data);
+			}
+			
+			
+		}
+		catch(Exception e)
+		{
+			
+			return Constants.KEYWORD_FAIL+":"+"Unable to add values"+e.getMessage();
+		}
 		
+			return Constants.KEYWORD_PASS;
+		}
 	
+		public String cover_distance_values(String object,String data)
+		{
+			APP_LOGS.debug("Entering cover distance values ");
+		try
+		{
+			String temp = object; 
+			String[] str = temp.split("\\|");
+			double autok[] = {22.5,31.08,15.92,46.21};
+			for(int j=0; j<4; j++)
+			{
+				object = str[0];
+				driver.findElement(By.xpath(OR.getProperty(object))).clear();
+				driver.findElement(By.xpath(OR.getProperty(object))).sendKeys(""+autok[j]);
+				Thread.sleep(1000);
+				object = str[1];
+				clickButton(object, data);
+			}
+			
+			
+		}
+		catch(Exception e)
+		{
+			
+			return Constants.KEYWORD_FAIL+":"+"Unable to add values"+e.getMessage();
+		}
+		
+			return Constants.KEYWORD_PASS;
+		}
 	
+		
+		
+		
+		
+		
+		
 	}

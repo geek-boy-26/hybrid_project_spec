@@ -1,131 +1,295 @@
-17/12/2015 06:24:34 devpinoyLogger Start
-17/12/2015 06:24:34 devpinoyLogger Properties Loaded. Testing Started
-17/12/2015 06:24:34 devpinoyLogger Initialize suite xlsx
-17/12/2015 06:24:35 devpinoyLogger A Suite--N
-17/12/2015 06:24:35 devpinoyLogger B Suite--N
-17/12/2015 06:24:35 devpinoyLogger C Suite--Y
-17/12/2015 06:24:35 devpinoyLogger ***Exceuting***C Suite
-17/12/2015 06:24:35 devpinoyLogger Login --N
-17/12/2015 06:24:35 devpinoyLogger Appointment_Creation--N
-17/12/2015 06:24:35 devpinoyLogger Clinical_Notes_Pre_Test--N
-17/12/2015 06:24:35 devpinoyLogger Clinical_Notes_History--N
-17/12/2015 06:24:35 devpinoyLogger Clinical_Notes_Investigate--N
-17/12/2015 06:24:35 devpinoyLogger Eye_Health--Y
-17/12/2015 06:24:35 devpinoyLogger Exceution of test case   Eye_Health
-17/12/2015 06:24:35 devpinoyLogger openBrowser
-17/12/2015 06:24:35 devpinoyLogger Opening the browser
-17/12/2015 06:24:37 devpinoyLogger Pass
-17/12/2015 06:24:37 devpinoyLogger navigate
-17/12/2015 06:24:37 devpinoyLogger Navigating to URL
-17/12/2015 06:24:45 devpinoyLogger Pass
-17/12/2015 06:24:45 devpinoyLogger writeInInput
-17/12/2015 06:24:45 devpinoyLogger Writing in text box
-17/12/2015 06:24:45 devpinoyLogger Pass
-17/12/2015 06:24:45 devpinoyLogger writeInInput
-17/12/2015 06:24:45 devpinoyLogger Writing in text box
-17/12/2015 06:24:45 devpinoyLogger Pass
-17/12/2015 06:24:45 devpinoyLogger verifyTextinInput
-17/12/2015 06:24:45 devpinoyLogger Verifying the text in input box
-17/12/2015 06:24:45 devpinoyLogger Pass
-17/12/2015 06:24:45 devpinoyLogger verifyTextinInput
-17/12/2015 06:24:45 devpinoyLogger Verifying the text in input box
-17/12/2015 06:24:45 devpinoyLogger Pass
-17/12/2015 06:24:45 devpinoyLogger verifyButtonText
-17/12/2015 06:24:45 devpinoyLogger Verifying the button text
-17/12/2015 06:24:45 devpinoyLogger Pass
-17/12/2015 06:24:45 devpinoyLogger clickButton
-17/12/2015 06:24:45 devpinoyLogger Clicking on Button
-17/12/2015 06:24:45 devpinoyLogger Pass
-17/12/2015 06:24:45 devpinoyLogger clickButton
-17/12/2015 06:24:45 devpinoyLogger Clicking on Button
-17/12/2015 06:24:53 devpinoyLogger Pass
-17/12/2015 06:24:53 devpinoyLogger pause
-17/12/2015 06:24:53 devpinoyLogger Waiting
-17/12/2015 06:24:58 devpinoyLogger Pass
-17/12/2015 06:24:58 devpinoyLogger clickButton
-17/12/2015 06:24:58 devpinoyLogger Clicking on Button
-17/12/2015 06:24:58 devpinoyLogger Pass
-17/12/2015 06:24:58 devpinoyLogger pause
-17/12/2015 06:24:58 devpinoyLogger Waiting
-17/12/2015 06:25:01 devpinoyLogger Pass
-17/12/2015 06:25:01 devpinoyLogger Right_Click_for_Clinical_Notes
-17/12/2015 06:25:01 devpinoyLogger Clicking Right Click
-17/12/2015 06:25:09 devpinoyLogger Pass
-17/12/2015 06:25:09 devpinoyLogger clickButton
-17/12/2015 06:25:09 devpinoyLogger Clicking on Button
-17/12/2015 06:25:11 devpinoyLogger Pass
-17/12/2015 06:25:11 devpinoyLogger clickButton
-17/12/2015 06:25:11 devpinoyLogger Clicking on Button
-17/12/2015 06:25:11 devpinoyLogger Pass
-17/12/2015 06:25:11 devpinoyLogger clickButton
-17/12/2015 06:25:11 devpinoyLogger Clicking on Button
-17/12/2015 06:25:11 devpinoyLogger Pass
-17/12/2015 06:25:11 devpinoyLogger pause
-17/12/2015 06:25:11 devpinoyLogger Waiting
-17/12/2015 06:25:14 devpinoyLogger Pass
-17/12/2015 06:25:14 devpinoyLogger scroll_down
-17/12/2015 06:25:14 devpinoyLogger scroll down to element
-17/12/2015 06:25:14 devpinoyLogger Pass
-17/12/2015 06:25:14 devpinoyLogger clickButton
-17/12/2015 06:25:14 devpinoyLogger Clicking on Button
-17/12/2015 06:25:14 devpinoyLogger Pass
-17/12/2015 06:25:14 devpinoyLogger pause
-17/12/2015 06:25:14 devpinoyLogger Waiting
-17/12/2015 06:25:17 devpinoyLogger Pass
-17/12/2015 06:25:17 devpinoyLogger clickButton
-17/12/2015 06:25:17 devpinoyLogger Clicking on Button
-17/12/2015 06:25:17 devpinoyLogger Pass
-17/12/2015 06:25:17 devpinoyLogger pause
-17/12/2015 06:25:17 devpinoyLogger Waiting
-17/12/2015 06:25:19 devpinoyLogger Pass
-17/12/2015 06:25:19 devpinoyLogger clickButton
-17/12/2015 06:25:19 devpinoyLogger Clicking on Button
-17/12/2015 06:25:19 devpinoyLogger Pass
-17/12/2015 06:25:19 devpinoyLogger clickButton
-17/12/2015 06:25:19 devpinoyLogger Clicking on Button
-17/12/2015 06:25:19 devpinoyLogger Pass
-17/12/2015 06:25:19 devpinoyLogger clickButton
-17/12/2015 06:25:19 devpinoyLogger Clicking on Button
-17/12/2015 06:25:20 devpinoyLogger Pass
-17/12/2015 06:25:20 devpinoyLogger pause
-17/12/2015 06:25:20 devpinoyLogger Waiting
-17/12/2015 06:25:22 devpinoyLogger Pass
-17/12/2015 06:25:22 devpinoyLogger clickButton
-17/12/2015 06:25:22 devpinoyLogger Clicking on Button
-17/12/2015 06:25:22 devpinoyLogger Pass
-17/12/2015 06:25:22 devpinoyLogger clickButton
-17/12/2015 06:25:22 devpinoyLogger Clicking on Button
-17/12/2015 06:25:22 devpinoyLogger Pass
-17/12/2015 06:25:22 devpinoyLogger pause
-17/12/2015 06:25:22 devpinoyLogger Waiting
-17/12/2015 06:25:32 devpinoyLogger Pass
-17/12/2015 06:25:32 devpinoyLogger clickButton
-17/12/2015 06:25:32 devpinoyLogger Clicking on Button
-17/12/2015 06:25:32 devpinoyLogger Pass
-17/12/2015 06:25:32 devpinoyLogger clickButton
-17/12/2015 06:25:32 devpinoyLogger Clicking on Button
-17/12/2015 06:25:32 devpinoyLogger Pass
-17/12/2015 06:25:32 devpinoyLogger clickButton
-17/12/2015 06:25:32 devpinoyLogger Clicking on Button
-17/12/2015 06:25:32 devpinoyLogger Pass
-17/12/2015 06:25:32 devpinoyLogger writeInInput
-17/12/2015 06:25:32 devpinoyLogger Writing in text box
-17/12/2015 06:25:32 devpinoyLogger Pass
-17/12/2015 06:25:32 devpinoyLogger pause
-17/12/2015 06:25:32 devpinoyLogger Waiting
-17/12/2015 06:25:35 devpinoyLogger Pass
-17/12/2015 06:25:35 devpinoyLogger clickButton
-17/12/2015 06:25:35 devpinoyLogger Clicking on Button
-17/12/2015 06:25:35 devpinoyLogger Pass
-17/12/2015 06:25:35 devpinoyLogger clickButton
-17/12/2015 06:25:35 devpinoyLogger Clicking on Button
-17/12/2015 06:25:35 devpinoyLogger Pass
-17/12/2015 06:25:35 devpinoyLogger clickButton
-17/12/2015 06:25:35 devpinoyLogger Clicking on Button
-17/12/2015 06:25:35 devpinoyLogger Pass
-17/12/2015 06:25:35 devpinoyLogger pause
-17/12/2015 06:25:35 devpinoyLogger Waiting
-17/12/2015 06:25:38 devpinoyLogger Pass
-17/12/2015 06:25:38 devpinoyLogger writeInInput
-17/12/2015 06:25:38 devpinoyLogger Writing in text box
-17/12/2015 06:25:38 devpinoyLogger Pass
+28/12/2015 10:04:38 devpinoyLogger Start
+28/12/2015 10:04:38 devpinoyLogger Properties Loaded. Testing Started
+28/12/2015 10:04:38 devpinoyLogger Initialize suite xlsx
+28/12/2015 10:04:39 devpinoyLogger A Suite--N
+28/12/2015 10:04:39 devpinoyLogger B Suite--N
+28/12/2015 10:04:39 devpinoyLogger C Suite--Y
+28/12/2015 10:04:39 devpinoyLogger ***Exceuting***C Suite
+28/12/2015 10:04:39 devpinoyLogger Login --N
+28/12/2015 10:04:39 devpinoyLogger Appointment_Creation--N
+28/12/2015 10:04:39 devpinoyLogger Clinical_Notes_Pre_Test--N
+28/12/2015 10:04:39 devpinoyLogger Clinical_Notes_History--N
+28/12/2015 10:04:39 devpinoyLogger Clinical_Notes_Investigate--N
+28/12/2015 10:04:39 devpinoyLogger Eye_Health--N
+28/12/2015 10:04:39 devpinoyLogger Spectacle_Rx--Y
+28/12/2015 10:04:39 devpinoyLogger Exceution of test case   Spectacle_Rx
+28/12/2015 10:04:39 devpinoyLogger openBrowser
+28/12/2015 10:04:39 devpinoyLogger Opening the browser
+28/12/2015 10:04:43 devpinoyLogger Pass
+28/12/2015 10:04:43 devpinoyLogger navigate
+28/12/2015 10:04:43 devpinoyLogger Navigating to URL
+28/12/2015 10:04:48 devpinoyLogger Pass
+28/12/2015 10:04:48 devpinoyLogger writeInInput
+28/12/2015 10:04:48 devpinoyLogger Writing in text box
+28/12/2015 10:04:49 devpinoyLogger Pass
+28/12/2015 10:04:49 devpinoyLogger writeInInput
+28/12/2015 10:04:49 devpinoyLogger Writing in text box
+28/12/2015 10:04:49 devpinoyLogger Pass
+28/12/2015 10:04:49 devpinoyLogger verifyTextinInput
+28/12/2015 10:04:49 devpinoyLogger Verifying the text in input box
+28/12/2015 10:04:49 devpinoyLogger Pass
+28/12/2015 10:04:49 devpinoyLogger verifyTextinInput
+28/12/2015 10:04:49 devpinoyLogger Verifying the text in input box
+28/12/2015 10:04:49 devpinoyLogger Pass
+28/12/2015 10:04:49 devpinoyLogger verifyButtonText
+28/12/2015 10:04:49 devpinoyLogger Verifying the button text
+28/12/2015 10:04:49 devpinoyLogger Pass
+28/12/2015 10:04:49 devpinoyLogger clickButton
+28/12/2015 10:04:49 devpinoyLogger Clicking on Button
+28/12/2015 10:04:49 devpinoyLogger Pass
+28/12/2015 10:04:49 devpinoyLogger clickButton
+28/12/2015 10:04:49 devpinoyLogger Clicking on Button
+28/12/2015 10:04:58 devpinoyLogger Pass
+28/12/2015 10:04:58 devpinoyLogger pause
+28/12/2015 10:04:58 devpinoyLogger Waiting
+28/12/2015 10:05:03 devpinoyLogger Pass
+28/12/2015 10:05:03 devpinoyLogger clickButton
+28/12/2015 10:05:03 devpinoyLogger Clicking on Button
+28/12/2015 10:05:04 devpinoyLogger Pass
+28/12/2015 10:05:04 devpinoyLogger pause
+28/12/2015 10:05:04 devpinoyLogger Waiting
+28/12/2015 10:05:07 devpinoyLogger Pass
+28/12/2015 10:05:07 devpinoyLogger Right_Click_for_Clinical_Notes
+28/12/2015 10:05:07 devpinoyLogger Clicking Right Click
+28/12/2015 10:05:20 devpinoyLogger Pass
+28/12/2015 10:05:20 devpinoyLogger clickButton
+28/12/2015 10:05:20 devpinoyLogger Clicking on Button
+28/12/2015 10:05:22 devpinoyLogger Pass
+28/12/2015 10:05:22 devpinoyLogger clickButton
+28/12/2015 10:05:22 devpinoyLogger Clicking on Button
+28/12/2015 10:05:22 devpinoyLogger Pass
+28/12/2015 10:05:22 devpinoyLogger clickButton
+28/12/2015 10:05:22 devpinoyLogger Clicking on Button
+28/12/2015 10:05:22 devpinoyLogger Pass
+28/12/2015 10:05:22 devpinoyLogger pause
+28/12/2015 10:05:22 devpinoyLogger Waiting
+28/12/2015 10:05:25 devpinoyLogger Pass
+28/12/2015 10:05:25 devpinoyLogger scroll_down
+28/12/2015 10:05:25 devpinoyLogger scroll down to element
+28/12/2015 10:05:26 devpinoyLogger Pass
+28/12/2015 10:05:26 devpinoyLogger pause
+28/12/2015 10:05:26 devpinoyLogger Waiting
+28/12/2015 10:05:29 devpinoyLogger Pass
+28/12/2015 10:05:29 devpinoyLogger clickButton
+28/12/2015 10:05:29 devpinoyLogger Clicking on Button
+28/12/2015 10:05:29 devpinoyLogger Pass
+28/12/2015 10:05:29 devpinoyLogger pause
+28/12/2015 10:05:29 devpinoyLogger Waiting
+28/12/2015 10:05:35 devpinoyLogger Pass
+28/12/2015 10:05:35 devpinoyLogger clickButton
+28/12/2015 10:05:35 devpinoyLogger Clicking on Button
+28/12/2015 10:05:36 devpinoyLogger Fail--Not able to navigateelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:05:36 devpinoyLogger pause
+28/12/2015 10:05:36 devpinoyLogger Waiting
+28/12/2015 10:05:39 devpinoyLogger Pass
+28/12/2015 10:05:39 devpinoyLogger Refracted_values
+28/12/2015 10:05:39 devpinoyLogger Entering Refracted values 
+28/12/2015 10:05:39 devpinoyLogger Fail:Unable to add valuesinvalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:05:39 devpinoyLogger pause
+28/12/2015 10:05:39 devpinoyLogger Waiting
+28/12/2015 10:05:41 devpinoyLogger Pass
+28/12/2015 10:05:41 devpinoyLogger writeInInput
+28/12/2015 10:05:41 devpinoyLogger Writing in text box
+28/12/2015 10:05:51 devpinoyLogger Failelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:05:51 devpinoyLogger clickButton
+28/12/2015 10:05:51 devpinoyLogger Clicking on Button
+28/12/2015 10:05:51 devpinoyLogger Fail--Not able to navigateelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:05:51 devpinoyLogger clickButton
+28/12/2015 10:05:51 devpinoyLogger Clicking on Button
+28/12/2015 10:05:51 devpinoyLogger Fail--Not able to navigateelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:05:51 devpinoyLogger clickButton
+28/12/2015 10:05:51 devpinoyLogger Clicking on Button
+28/12/2015 10:05:51 devpinoyLogger Fail--Not able to navigateelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:05:51 devpinoyLogger clickButton
+28/12/2015 10:05:51 devpinoyLogger Clicking on Button
+28/12/2015 10:05:51 devpinoyLogger Fail--Not able to navigateelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:05:51 devpinoyLogger clickButton
+28/12/2015 10:05:51 devpinoyLogger Clicking on Button
+28/12/2015 10:05:51 devpinoyLogger Fail--Not able to navigateelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:05:51 devpinoyLogger clickButton
+28/12/2015 10:05:51 devpinoyLogger Clicking on Button
+28/12/2015 10:05:51 devpinoyLogger Fail--Not able to navigateelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 9 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:05:51 devpinoyLogger clickButton
+28/12/2015 10:05:51 devpinoyLogger Clicking on Button
+28/12/2015 10:05:51 devpinoyLogger Fail--Not able to navigateelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:05:51 devpinoyLogger clickButton
+28/12/2015 10:05:51 devpinoyLogger Clicking on Button
+28/12/2015 10:05:51 devpinoyLogger Fail--Not able to navigateelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:05:51 devpinoyLogger click_and_clear
+28/12/2015 10:05:51 devpinoyLogger Clicking on any element
+28/12/2015 10:05:51 devpinoyLogger FailUnable to clickinvalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:05:51 devpinoyLogger writeInInput
+28/12/2015 10:05:51 devpinoyLogger Writing in text box
+28/12/2015 10:06:01 devpinoyLogger Failelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.10 seconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:06:01 devpinoyLogger clickButton
+28/12/2015 10:06:01 devpinoyLogger Clicking on Button
+28/12/2015 10:06:01 devpinoyLogger Fail--Not able to navigateelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:06:01 devpinoyLogger clickButton
+28/12/2015 10:06:01 devpinoyLogger Clicking on Button
+28/12/2015 10:06:02 devpinoyLogger Fail--Not able to navigateelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:06:02 devpinoyLogger click_and_clear
+28/12/2015 10:06:02 devpinoyLogger Clicking on any element
+28/12/2015 10:06:02 devpinoyLogger FailUnable to clickinvalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 7 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:06:02 devpinoyLogger writeInInput
+28/12/2015 10:06:02 devpinoyLogger Writing in text box
+28/12/2015 10:06:12 devpinoyLogger Failelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:06:12 devpinoyLogger clickButton
+28/12/2015 10:06:12 devpinoyLogger Clicking on Button
+28/12/2015 10:06:12 devpinoyLogger Fail--Not able to navigateelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:06:12 devpinoyLogger clickButton
+28/12/2015 10:06:12 devpinoyLogger Clicking on Button
+28/12/2015 10:06:12 devpinoyLogger Fail--Not able to navigateelement not visible
+  (Session info: chrome=47.0.2526.106)
+  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
+System info: host: 'ATLANTISPC-274', ip: '10.210.16.49', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
+Session ID: 5211d3df1bb7caacb0ef33872134bca9
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir8580_23766}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+28/12/2015 10:06:12 devpinoyLogger writeInInput
+28/12/2015 10:06:12 devpinoyLogger Writing in text box
