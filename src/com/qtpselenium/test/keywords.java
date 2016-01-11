@@ -5,6 +5,7 @@ import static com.qtpselenium.test.DriverScript.OR;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
@@ -16,9 +17,13 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 import com.qtpselenium.xls.read.Xls_Reader;
@@ -47,8 +52,13 @@ public class keywords {
 				else if(data.equals("IE"))
 					driver = new InternetExplorerDriver();
 				else if(data.equals("Chrome"))
-					System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"//driver//chromedriver.exe");
-					driver = new ChromeDriver();
+				System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"//driver//chromedriver.exe");
+				ChromeOptions chromeOptions = new ChromeOptions();
+				chromeOptions.addArguments(Arrays.asList("--test-type"));
+				DesiredCapabilities capabilities = DesiredCapabilities.chrome();
+				capabilities.setCapability("chrome.switches", Arrays.asList("--incognito"));
+				capabilities.setCapability(ChromeOptions.CAPABILITY, chromeOptions);
+				driver = new ChromeDriver(capabilities);
 					
 				driver.manage().window().maximize();
 							
@@ -319,7 +329,7 @@ public class keywords {
 			try{
 			 while(time == start){
 				if(driver.findElements(By.xpath(OR.getProperty(object))).size() == 0){
-					Thread.sleep(1000L);
+						Thread.sleep(1000L);
 					start++;
 				}else{
 					break;
@@ -442,6 +452,7 @@ public class keywords {
 		try
 		{
 			String text = driver.findElement(By.xpath(OR.getProperty(object))).getText();
+			System.out.println(text);
 			Assert.assertEquals(data, text);
 		}
 		catch(Exception e)
@@ -774,10 +785,80 @@ public class keywords {
 			return Constants.KEYWORD_PASS;
 		}
 	
+		public String phoria_distance_values(String object,String data)
+		{
+			APP_LOGS.debug("Entering phoria distance values ");
+		try
+		{
+			String temp = object; 
+			String[] str = temp.split("\\|");
+			double autok[] = {22.5,31.08,15.92,46.21};
+			for(int j=0; j<4; j++)
+			{
+				object = str[0];
+				driver.findElement(By.xpath(OR.getProperty(object))).clear();
+				driver.findElement(By.xpath(OR.getProperty(object))).sendKeys(""+autok[j]);
+				Thread.sleep(1000);
+				object = str[1];
+				clickButton(object, data);
+			}
+			
+			
+		}
+		catch(Exception e)
+		{
+			
+			return Constants.KEYWORD_FAIL+":"+"Unable to add values"+e.getMessage();
+		}
 		
+			return Constants.KEYWORD_PASS;
+		}
+	
+		public String cover_test_near_values(String object,String data)
+		{
+			APP_LOGS.debug("Entering cover test near values ");
+		try
+		{
+			String temp = object; 
+			String[] str = temp.split("\\|");
+			double autok[] = {22.5,31.08,15.92,46.21};
+			for(int j=0; j<4; j++)
+			{
+				object = str[0];
+				driver.findElement(By.xpath(OR.getProperty(object))).clear();
+				driver.findElement(By.xpath(OR.getProperty(object))).sendKeys(""+autok[j]);
+				Thread.sleep(1000);
+				object = str[1];
+				clickButton(object, data);
+			}
+			
+			
+		}
+		catch(Exception e)
+		{
+			
+			return Constants.KEYWORD_FAIL+":"+"Unable to add values"+e.getMessage();
+		}
 		
+			return Constants.KEYWORD_PASS;
+		}
+	
 		
-		
+		public String waitForElement(String object,String data)
+		{
+			APP_LOGS.debug("Waiting for Element");
+			try
+			{
+				
+				WebDriverWait wait = new WebDriverWait(driver,25);
+				wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath(OR.getProperty(object))));
+				}
+			catch(Exception e)
+			{
+			  return Constants.KEYWORD_FAIL+":"+"Unable to wait";	
+			}
+			return Constants.KEYWORD_PASS;
+		}
 		
 		
 	}
