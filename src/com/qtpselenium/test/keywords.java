@@ -6,6 +6,7 @@ import static com.qtpselenium.test.DriverScript.OR;
 import java.io.File;
 import java.io.IOException;
 import java.util.Arrays;
+import java.util.NoSuchElementException;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.io.FileUtils;
@@ -26,7 +27,9 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
+import com.google.common.base.Function;
 import com.qtpselenium.xls.read.Xls_Reader;
+import com.thoughtworks.selenium.Wait;
 
 import static com.qtpselenium.test.DriverScript.currentTestSuiteXLS;
 import static com.qtpselenium.test.DriverScript.currentTestCaseName;
@@ -41,13 +44,12 @@ public class keywords {
 	
 	//data holding key value in excel
 	//object column holding value of OR properties file
-		public String openBrowser(String object, String data)	{
+		public  String openBrowser(String object, String data)	{
 		APP_LOGS.debug("Opening the browser");
 		//Selenium Code
 		try
 		{
-		 
-				if(data.equals("Mozilla"))
+		 		if(data.equals("Mozilla"))
 				driver = new FirefoxDriver();
 				else if(data.equals("IE"))
 					driver = new InternetExplorerDriver();
@@ -109,7 +111,7 @@ public class keywords {
 	        	
 	        }catch(Exception e)
 	        {
-	        	return Constants.KEYWORD_FAIL+"--"+"Not able to navigate"+e.getMessage() ;
+	        	return Constants.KEYWORD_FAIL+"--"+"Not able to click button";
 	        	
 	        	
 	        }
@@ -352,8 +354,7 @@ public class keywords {
 			{
 				return Constants.KEYWORD_FAIL+"Unable to close browser. Check if its open"+e.getMessage();
 			}
-			
-			
+						
 			return Constants.KEYWORD_PASS;
 
 		}
@@ -452,7 +453,6 @@ public class keywords {
 		try
 		{
 			String text = driver.findElement(By.xpath(OR.getProperty(object))).getText();
-			System.out.println(text);
 			Assert.assertEquals(data, text);
 		}
 		catch(Exception e)
@@ -715,8 +715,7 @@ public class keywords {
 					object = str[1];
 					clickButton(object, data);
 				}
-				
-				
+					
 			}
 			catch(Exception e)
 			{
@@ -846,12 +845,13 @@ public class keywords {
 		
 		public String waitForElement(String object,String data)
 		{
-			APP_LOGS.debug("Waiting for Element");
+			APP_LOGS.debug("Waiting for Element, explicit wait ");
 			try
 			{
 				
 				WebDriverWait wait = new WebDriverWait(driver,25);
 				wait.until(ExpectedConditions.presenceOfElementLocated(By.xpath(OR.getProperty(object))));
+				
 				}
 			catch(Exception e)
 			{
@@ -860,5 +860,27 @@ public class keywords {
 			return Constants.KEYWORD_PASS;
 		}
 		
+		
+		public String FluentWait(final String object,String data)
+		{
+			try
+			{
+			org.openqa.selenium.support.ui.FluentWait<WebDriver> wait = new org.openqa.selenium.support.ui.FluentWait<WebDriver>(driver).withTimeout(30, TimeUnit.SECONDS).pollingEvery(5, TimeUnit.SECONDS).ignoring(NoSuchElementException.class);
+			
+			WebElement element= wait.until(new Function<WebDriver, WebElement>() {
+				public WebElement apply(WebDriver driver)
+				{
+					return driver.findElement(By.xpath(OR.getProperty(object)));
+				}
+			});
+						
+			}
+			catch(Exception e)
+			{
+				return Constants.KEYWORD_FAIL+"unable to wait"+e.getMessage();
+			}
+			
+			return Constants.KEYWORD_PASS;
+		}
 		
 	}

@@ -1,358 +1,1236 @@
-08/01/2016 07:58:36 devpinoyLogger Start
-08/01/2016 07:58:36 devpinoyLogger Properties Loaded. Testing Started
-08/01/2016 07:58:36 devpinoyLogger Initialize suite xlsx
-08/01/2016 07:58:37 devpinoyLogger A Suite--N
-08/01/2016 07:58:37 devpinoyLogger B Suite--N
-08/01/2016 07:58:37 devpinoyLogger C Suite--Y
-08/01/2016 07:58:37 devpinoyLogger ***Exceuting***C Suite
-08/01/2016 07:58:37 devpinoyLogger Login --N
-08/01/2016 07:58:37 devpinoyLogger Appointment_Creation--N
-08/01/2016 07:58:37 devpinoyLogger Clinical_Notes_Pre_Test--N
-08/01/2016 07:58:37 devpinoyLogger Clinical_Notes_History--N
-08/01/2016 07:58:37 devpinoyLogger Clinical_Notes_Investigate--N
-08/01/2016 07:58:37 devpinoyLogger Eye_Health--N
-08/01/2016 07:58:37 devpinoyLogger Spectacle_Rx--Y
-08/01/2016 07:58:37 devpinoyLogger Exceution of test case   Spectacle_Rx
-08/01/2016 07:58:37 devpinoyLogger openBrowser
-08/01/2016 07:58:37 devpinoyLogger Opening the browser
-08/01/2016 07:58:40 devpinoyLogger Pass
-08/01/2016 07:58:40 devpinoyLogger navigate
-08/01/2016 07:58:40 devpinoyLogger Navigating to URL
-08/01/2016 07:58:47 devpinoyLogger Pass
-08/01/2016 07:58:47 devpinoyLogger writeInInput
-08/01/2016 07:58:47 devpinoyLogger Writing in text box
-08/01/2016 07:58:47 devpinoyLogger Pass
-08/01/2016 07:58:47 devpinoyLogger writeInInput
-08/01/2016 07:58:47 devpinoyLogger Writing in text box
-08/01/2016 07:58:47 devpinoyLogger Pass
-08/01/2016 07:58:47 devpinoyLogger verifyTextinInput
-08/01/2016 07:58:47 devpinoyLogger Verifying the text in input box
-08/01/2016 07:58:47 devpinoyLogger Pass
-08/01/2016 07:58:47 devpinoyLogger verifyTextinInput
-08/01/2016 07:58:47 devpinoyLogger Verifying the text in input box
-08/01/2016 07:58:47 devpinoyLogger Pass
-08/01/2016 07:58:47 devpinoyLogger verifyButtonText
-08/01/2016 07:58:47 devpinoyLogger Verifying the button text
-08/01/2016 07:58:47 devpinoyLogger Pass
-08/01/2016 07:58:47 devpinoyLogger clickButton
-08/01/2016 07:58:47 devpinoyLogger Clicking on Button
-08/01/2016 07:58:47 devpinoyLogger Pass
-08/01/2016 07:58:47 devpinoyLogger pause
-08/01/2016 07:58:47 devpinoyLogger Waiting
-08/01/2016 07:58:57 devpinoyLogger Pass
-08/01/2016 07:58:57 devpinoyLogger waitForElement
-08/01/2016 07:58:57 devpinoyLogger Waiting for Element
-08/01/2016 07:58:57 devpinoyLogger Pass
-08/01/2016 07:58:57 devpinoyLogger clickButton
-08/01/2016 07:58:57 devpinoyLogger Clicking on Button
-08/01/2016 07:58:57 devpinoyLogger Pass
-08/01/2016 07:58:57 devpinoyLogger pause
-08/01/2016 07:58:57 devpinoyLogger Waiting
-08/01/2016 07:59:02 devpinoyLogger Pass
-08/01/2016 07:59:02 devpinoyLogger clickButton
-08/01/2016 07:59:02 devpinoyLogger Clicking on Button
-08/01/2016 07:59:03 devpinoyLogger Pass
-08/01/2016 07:59:03 devpinoyLogger pause
-08/01/2016 07:59:03 devpinoyLogger Waiting
-08/01/2016 07:59:06 devpinoyLogger Pass
-08/01/2016 07:59:06 devpinoyLogger Right_Click_for_Clinical_Notes
-08/01/2016 07:59:06 devpinoyLogger Clicking Right Click
-08/01/2016 07:59:12 devpinoyLogger Pass
-08/01/2016 07:59:12 devpinoyLogger pause
-08/01/2016 07:59:12 devpinoyLogger Waiting
-08/01/2016 07:59:15 devpinoyLogger Pass
-08/01/2016 07:59:15 devpinoyLogger clickButton
-08/01/2016 07:59:15 devpinoyLogger Clicking on Button
-08/01/2016 07:59:19 devpinoyLogger Fail--Not able to navigateelement not visible
-  (Session info: chrome=47.0.2526.106)
-  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 86 milliseconds
-Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
-System info: host: 'ATLANTISPC-274', ip: '10.210.16.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
-Session ID: 528a7a361b610b37c0b81c712df7a436
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir856_21790}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
-08/01/2016 07:59:19 devpinoyLogger clickButton
-08/01/2016 07:59:19 devpinoyLogger Clicking on Button
-08/01/2016 07:59:19 devpinoyLogger Fail--Not able to navigateelement not visible
-  (Session info: chrome=47.0.2526.106)
-  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 47 milliseconds
-Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
-System info: host: 'ATLANTISPC-274', ip: '10.210.16.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
-Session ID: 528a7a361b610b37c0b81c712df7a436
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir856_21790}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
-08/01/2016 07:59:19 devpinoyLogger clickButton
-08/01/2016 07:59:19 devpinoyLogger Clicking on Button
-08/01/2016 07:59:19 devpinoyLogger Pass
-08/01/2016 07:59:19 devpinoyLogger pause
-08/01/2016 07:59:19 devpinoyLogger Waiting
-08/01/2016 07:59:22 devpinoyLogger Pass
-08/01/2016 07:59:22 devpinoyLogger scroll_down
-08/01/2016 07:59:22 devpinoyLogger scroll down to element
-08/01/2016 07:59:22 devpinoyLogger Pass
-08/01/2016 07:59:22 devpinoyLogger pause
-08/01/2016 07:59:22 devpinoyLogger Waiting
-08/01/2016 07:59:25 devpinoyLogger Pass
-08/01/2016 07:59:25 devpinoyLogger clickButton
-08/01/2016 07:59:25 devpinoyLogger Clicking on Button
-08/01/2016 07:59:25 devpinoyLogger Pass
-08/01/2016 07:59:25 devpinoyLogger pause
-08/01/2016 07:59:25 devpinoyLogger Waiting
-08/01/2016 07:59:31 devpinoyLogger Pass
-08/01/2016 07:59:31 devpinoyLogger clickButton
-08/01/2016 07:59:31 devpinoyLogger Clicking on Button
-08/01/2016 07:59:31 devpinoyLogger Pass
-08/01/2016 07:59:31 devpinoyLogger pause
-08/01/2016 07:59:31 devpinoyLogger Waiting
-08/01/2016 07:59:34 devpinoyLogger Pass
-08/01/2016 07:59:34 devpinoyLogger Refracted_values
-08/01/2016 07:59:34 devpinoyLogger Entering Refracted values 
-08/01/2016 07:59:35 devpinoyLogger Clicking on Button
-08/01/2016 07:59:36 devpinoyLogger Clicking on Button
-08/01/2016 07:59:38 devpinoyLogger Clicking on Button
-08/01/2016 07:59:39 devpinoyLogger Clicking on Button
-08/01/2016 07:59:40 devpinoyLogger Clicking on Button
-08/01/2016 07:59:41 devpinoyLogger Clicking on Button
-08/01/2016 07:59:42 devpinoyLogger Clicking on Button
-08/01/2016 07:59:43 devpinoyLogger Clicking on Button
-08/01/2016 07:59:44 devpinoyLogger Clicking on Button
-08/01/2016 07:59:45 devpinoyLogger Clicking on Button
-08/01/2016 07:59:46 devpinoyLogger Clicking on Button
-08/01/2016 07:59:48 devpinoyLogger Clicking on Button
-08/01/2016 07:59:49 devpinoyLogger Clicking on Button
-08/01/2016 07:59:50 devpinoyLogger Clicking on Button
-08/01/2016 07:59:51 devpinoyLogger Clicking on Button
-08/01/2016 07:59:52 devpinoyLogger Clicking on Button
-08/01/2016 07:59:53 devpinoyLogger Clicking on Button
-08/01/2016 07:59:54 devpinoyLogger Clicking on Button
-08/01/2016 07:59:55 devpinoyLogger Clicking on Button
-08/01/2016 07:59:56 devpinoyLogger Clicking on Button
-08/01/2016 07:59:57 devpinoyLogger Clicking on Button
-08/01/2016 07:59:59 devpinoyLogger Clicking on Button
-08/01/2016 07:59:59 devpinoyLogger Pass
-08/01/2016 07:59:59 devpinoyLogger pause
-08/01/2016 07:59:59 devpinoyLogger Waiting
-08/01/2016 08:00:01 devpinoyLogger Pass
-08/01/2016 08:00:01 devpinoyLogger writeInInput
-08/01/2016 08:00:01 devpinoyLogger Writing in text box
-08/01/2016 08:00:01 devpinoyLogger Pass
-08/01/2016 08:00:01 devpinoyLogger clickButton
-08/01/2016 08:00:01 devpinoyLogger Clicking on Button
-08/01/2016 08:00:01 devpinoyLogger Pass
-08/01/2016 08:00:01 devpinoyLogger clickButton
-08/01/2016 08:00:01 devpinoyLogger Clicking on Button
-08/01/2016 08:00:01 devpinoyLogger Pass
-08/01/2016 08:00:01 devpinoyLogger clickButton
-08/01/2016 08:00:01 devpinoyLogger Clicking on Button
-08/01/2016 08:00:01 devpinoyLogger Pass
-08/01/2016 08:00:01 devpinoyLogger clickButton
-08/01/2016 08:00:01 devpinoyLogger Clicking on Button
-08/01/2016 08:00:01 devpinoyLogger Pass
-08/01/2016 08:00:01 devpinoyLogger clickButton
-08/01/2016 08:00:01 devpinoyLogger Clicking on Button
-08/01/2016 08:00:01 devpinoyLogger Pass
-08/01/2016 08:00:01 devpinoyLogger clickButton
-08/01/2016 08:00:01 devpinoyLogger Clicking on Button
-08/01/2016 08:00:01 devpinoyLogger Pass
-08/01/2016 08:00:01 devpinoyLogger clickButton
-08/01/2016 08:00:01 devpinoyLogger Clicking on Button
-08/01/2016 08:00:01 devpinoyLogger Pass
-08/01/2016 08:00:01 devpinoyLogger clickButton
-08/01/2016 08:00:01 devpinoyLogger Clicking on Button
-08/01/2016 08:00:01 devpinoyLogger Pass
-08/01/2016 08:00:01 devpinoyLogger click_and_clear
-08/01/2016 08:00:01 devpinoyLogger Clicking on any element
-08/01/2016 08:00:01 devpinoyLogger Pass
-08/01/2016 08:00:01 devpinoyLogger writeInInput
-08/01/2016 08:00:01 devpinoyLogger Writing in text box
-08/01/2016 08:00:01 devpinoyLogger Pass
-08/01/2016 08:00:01 devpinoyLogger clickButton
-08/01/2016 08:00:01 devpinoyLogger Clicking on Button
-08/01/2016 08:00:02 devpinoyLogger Pass
-08/01/2016 08:00:02 devpinoyLogger clickButton
-08/01/2016 08:00:02 devpinoyLogger Clicking on Button
-08/01/2016 08:00:02 devpinoyLogger Pass
-08/01/2016 08:00:02 devpinoyLogger click_and_clear
-08/01/2016 08:00:02 devpinoyLogger Clicking on any element
-08/01/2016 08:00:02 devpinoyLogger Pass
-08/01/2016 08:00:02 devpinoyLogger writeInInput
-08/01/2016 08:00:02 devpinoyLogger Writing in text box
-08/01/2016 08:00:02 devpinoyLogger Pass
-08/01/2016 08:00:02 devpinoyLogger clickButton
-08/01/2016 08:00:02 devpinoyLogger Clicking on Button
-08/01/2016 08:00:02 devpinoyLogger Pass
-08/01/2016 08:00:02 devpinoyLogger clickButton
-08/01/2016 08:00:02 devpinoyLogger Clicking on Button
-08/01/2016 08:00:02 devpinoyLogger Pass
-08/01/2016 08:00:02 devpinoyLogger writeInInput
-08/01/2016 08:00:02 devpinoyLogger Writing in text box
-08/01/2016 08:00:02 devpinoyLogger Pass
-08/01/2016 08:00:02 devpinoyLogger clickButton
-08/01/2016 08:00:02 devpinoyLogger Clicking on Button
-08/01/2016 08:00:02 devpinoyLogger Pass
-08/01/2016 08:00:02 devpinoyLogger clickButton
-08/01/2016 08:00:02 devpinoyLogger Clicking on Button
-08/01/2016 08:00:02 devpinoyLogger Pass
-08/01/2016 08:00:02 devpinoyLogger clickButton
-08/01/2016 08:00:02 devpinoyLogger Clicking on Button
-08/01/2016 08:00:02 devpinoyLogger Fail--Not able to navigateelement not visible
-  (Session info: chrome=47.0.2526.106)
-  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 24 milliseconds
-Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
-System info: host: 'ATLANTISPC-274', ip: '10.210.16.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
-Session ID: 528a7a361b610b37c0b81c712df7a436
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir856_21790}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
-08/01/2016 08:00:02 devpinoyLogger pause
-08/01/2016 08:00:02 devpinoyLogger Waiting
-08/01/2016 08:00:04 devpinoyLogger Pass
-08/01/2016 08:00:04 devpinoyLogger clickButton
-08/01/2016 08:00:04 devpinoyLogger Clicking on Button
-08/01/2016 08:00:04 devpinoyLogger Fail--Not able to navigateelement not visible
-  (Session info: chrome=47.0.2526.106)
-  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 27 milliseconds
-Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
-System info: host: 'ATLANTISPC-274', ip: '10.210.16.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
-Session ID: 528a7a361b610b37c0b81c712df7a436
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir856_21790}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
-08/01/2016 08:00:04 devpinoyLogger pause
-08/01/2016 08:00:04 devpinoyLogger Waiting
-08/01/2016 08:00:06 devpinoyLogger Pass
-08/01/2016 08:00:06 devpinoyLogger clickButton
-08/01/2016 08:00:06 devpinoyLogger Clicking on Button
-08/01/2016 08:00:06 devpinoyLogger Fail--Not able to navigateelement not visible
-  (Session info: chrome=47.0.2526.106)
-  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 17 milliseconds
-Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
-System info: host: 'ATLANTISPC-274', ip: '10.210.16.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
-Session ID: 528a7a361b610b37c0b81c712df7a436
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir856_21790}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
-08/01/2016 08:00:06 devpinoyLogger pause
-08/01/2016 08:00:06 devpinoyLogger Waiting
-08/01/2016 08:00:08 devpinoyLogger Pass
-08/01/2016 08:00:08 devpinoyLogger clickButton
-08/01/2016 08:00:08 devpinoyLogger Clicking on Button
-08/01/2016 08:00:08 devpinoyLogger Fail--Not able to navigateelement not visible
-  (Session info: chrome=47.0.2526.106)
-  (Driver info: chromedriver=2.6.232923,platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
-Command duration or timeout: 17 milliseconds
-Build info: version: '2.44.0', revision: '76d78cf', time: '2014-10-23 20:03:00'
-System info: host: 'ATLANTISPC-274', ip: '10.210.16.42', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_79'
-Session ID: 528a7a361b610b37c0b81c712df7a436
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\aakarg\AppData\Local\Temp\scoped_dir856_21790}, rotatable=false, locationContextEnabled=true, version=47.0.2526.106, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
-08/01/2016 08:00:08 devpinoyLogger pause
-08/01/2016 08:00:08 devpinoyLogger Waiting
-08/01/2016 08:00:10 devpinoyLogger Pass
-08/01/2016 08:00:10 devpinoyLogger click_and_clear
-08/01/2016 08:00:10 devpinoyLogger Clicking on any element
-08/01/2016 08:00:10 devpinoyLogger Pass
-08/01/2016 08:00:10 devpinoyLogger writeInInput
-08/01/2016 08:00:10 devpinoyLogger Writing in text box
-08/01/2016 08:00:11 devpinoyLogger Pass
-08/01/2016 08:00:11 devpinoyLogger pause
-08/01/2016 08:00:11 devpinoyLogger Waiting
-08/01/2016 08:00:13 devpinoyLogger Pass
-08/01/2016 08:00:13 devpinoyLogger clickButton
-08/01/2016 08:00:13 devpinoyLogger Clicking on Button
-08/01/2016 08:00:13 devpinoyLogger Pass
-08/01/2016 08:00:13 devpinoyLogger clickButton
-08/01/2016 08:00:13 devpinoyLogger Clicking on Button
-08/01/2016 08:00:13 devpinoyLogger Pass
-08/01/2016 08:00:13 devpinoyLogger pause
-08/01/2016 08:00:13 devpinoyLogger Waiting
-08/01/2016 08:00:15 devpinoyLogger Pass
-08/01/2016 08:00:15 devpinoyLogger cover_distance_values
-08/01/2016 08:00:15 devpinoyLogger Entering cover distance values 
-08/01/2016 08:00:16 devpinoyLogger Clicking on Button
-08/01/2016 08:00:17 devpinoyLogger Clicking on Button
-08/01/2016 08:00:18 devpinoyLogger Clicking on Button
-08/01/2016 08:00:19 devpinoyLogger Clicking on Button
-08/01/2016 08:00:19 devpinoyLogger Pass
-08/01/2016 08:00:19 devpinoyLogger writeInInput
-08/01/2016 08:00:19 devpinoyLogger Writing in text box
-08/01/2016 08:00:19 devpinoyLogger Pass
-08/01/2016 08:00:19 devpinoyLogger clickButton
-08/01/2016 08:00:19 devpinoyLogger Clicking on Button
-08/01/2016 08:00:19 devpinoyLogger Pass
-08/01/2016 08:00:19 devpinoyLogger clickButton
-08/01/2016 08:00:19 devpinoyLogger Clicking on Button
-08/01/2016 08:00:20 devpinoyLogger Pass
-08/01/2016 08:00:20 devpinoyLogger pause
-08/01/2016 08:00:20 devpinoyLogger Waiting
-08/01/2016 08:00:23 devpinoyLogger Pass
-08/01/2016 08:00:23 devpinoyLogger clickButton
-08/01/2016 08:00:23 devpinoyLogger Clicking on Button
-08/01/2016 08:00:23 devpinoyLogger Pass
-08/01/2016 08:00:23 devpinoyLogger pause
-08/01/2016 08:00:23 devpinoyLogger Waiting
-08/01/2016 08:00:25 devpinoyLogger Pass
-08/01/2016 08:00:25 devpinoyLogger clickButton
-08/01/2016 08:00:25 devpinoyLogger Clicking on Button
-08/01/2016 08:00:25 devpinoyLogger Pass
-08/01/2016 08:00:25 devpinoyLogger clickButton
-08/01/2016 08:00:25 devpinoyLogger Clicking on Button
-08/01/2016 08:00:25 devpinoyLogger Pass
-08/01/2016 08:00:25 devpinoyLogger writeInInput
-08/01/2016 08:00:25 devpinoyLogger Writing in text box
-08/01/2016 08:00:25 devpinoyLogger Pass
-08/01/2016 08:00:25 devpinoyLogger clickButton
-08/01/2016 08:00:25 devpinoyLogger Clicking on Button
-08/01/2016 08:00:25 devpinoyLogger Pass
-08/01/2016 08:00:25 devpinoyLogger pause
-08/01/2016 08:00:25 devpinoyLogger Waiting
-08/01/2016 08:00:28 devpinoyLogger Pass
-08/01/2016 08:00:28 devpinoyLogger clickButton
-08/01/2016 08:00:28 devpinoyLogger Clicking on Button
-08/01/2016 08:00:28 devpinoyLogger Pass
-08/01/2016 08:00:28 devpinoyLogger phoria_distance_values
-08/01/2016 08:00:28 devpinoyLogger Entering phoria distance values 
-08/01/2016 08:00:29 devpinoyLogger Clicking on Button
-08/01/2016 08:00:30 devpinoyLogger Clicking on Button
-08/01/2016 08:00:31 devpinoyLogger Clicking on Button
-08/01/2016 08:00:33 devpinoyLogger Clicking on Button
-08/01/2016 08:00:33 devpinoyLogger Pass
-08/01/2016 08:00:33 devpinoyLogger pause
-08/01/2016 08:00:33 devpinoyLogger Waiting
-08/01/2016 08:00:35 devpinoyLogger Pass
-08/01/2016 08:00:35 devpinoyLogger pause
-08/01/2016 08:00:35 devpinoyLogger Waiting
-08/01/2016 08:00:38 devpinoyLogger Pass
-08/01/2016 08:00:38 devpinoyLogger clickButton
-08/01/2016 08:00:38 devpinoyLogger Clicking on Button
-08/01/2016 08:00:38 devpinoyLogger Pass
-08/01/2016 08:00:38 devpinoyLogger clickButton
-08/01/2016 08:00:38 devpinoyLogger Clicking on Button
-08/01/2016 08:00:38 devpinoyLogger Pass
-08/01/2016 08:00:38 devpinoyLogger cover_test_near_values
-08/01/2016 08:00:38 devpinoyLogger Entering cover test near values 
-08/01/2016 08:00:39 devpinoyLogger Clicking on Button
-08/01/2016 08:00:40 devpinoyLogger Clicking on Button
-08/01/2016 08:00:41 devpinoyLogger Clicking on Button
-08/01/2016 08:00:42 devpinoyLogger Clicking on Button
-08/01/2016 08:00:42 devpinoyLogger Pass
-08/01/2016 08:00:42 devpinoyLogger writeInInput
-08/01/2016 08:00:42 devpinoyLogger Writing in text box
-08/01/2016 08:00:42 devpinoyLogger Pass
-08/01/2016 08:00:42 devpinoyLogger clickButton
-08/01/2016 08:00:42 devpinoyLogger Clicking on Button
-08/01/2016 08:00:42 devpinoyLogger Pass
-08/01/2016 08:00:42 devpinoyLogger scroll_down
-08/01/2016 08:00:42 devpinoyLogger scroll down to element
-08/01/2016 08:00:42 devpinoyLogger Pass
-08/01/2016 08:00:42 devpinoyLogger clickButton
-08/01/2016 08:00:42 devpinoyLogger Clicking on Button
-08/01/2016 08:00:42 devpinoyLogger Pass
-08/01/2016 08:00:42 devpinoyLogger pause
-08/01/2016 08:00:42 devpinoyLogger Waiting
-08/01/2016 08:00:45 devpinoyLogger Pass
-08/01/2016 08:00:45 devpinoyLogger closeBroswer
-08/01/2016 08:00:45 devpinoyLogger Closing the browser
-08/01/2016 08:00:47 devpinoyLogger Pass
+01/02/2016 06:51:08 devpinoyLogger Start
+01/02/2016 06:51:08 devpinoyLogger Properties Loaded. Testing Started
+01/02/2016 06:51:08 devpinoyLogger Initialize suite xlsx
+01/02/2016 06:51:10 devpinoyLogger A Suite--N
+01/02/2016 06:51:10 devpinoyLogger B Suite--N
+01/02/2016 06:51:10 devpinoyLogger C Suite--Y
+01/02/2016 06:51:10 devpinoyLogger ***Exceuting***C Suite
+01/02/2016 06:51:11 devpinoyLogger Login --N
+01/02/2016 06:51:11 devpinoyLogger Appointment_Creation--Y
+01/02/2016 06:51:11 devpinoyLogger Exceution of test case   Appointment_Creation
+01/02/2016 06:51:11 devpinoyLogger Iteration number1
+01/02/2016 06:51:11 devpinoyLogger openBrowser
+01/02/2016 06:51:11 devpinoyLogger Opening the browser
+01/02/2016 06:51:26 devpinoyLogger Pass
+01/02/2016 06:51:26 devpinoyLogger navigate
+01/02/2016 06:51:26 devpinoyLogger Navigating to URL
+01/02/2016 06:51:32 devpinoyLogger Pass
+01/02/2016 06:51:32 devpinoyLogger writeInInput
+01/02/2016 06:51:32 devpinoyLogger Writing in text box
+01/02/2016 06:51:32 devpinoyLogger Pass
+01/02/2016 06:51:32 devpinoyLogger writeInInput
+01/02/2016 06:51:32 devpinoyLogger Writing in text box
+01/02/2016 06:51:33 devpinoyLogger Pass
+01/02/2016 06:51:33 devpinoyLogger verifyTextinInput
+01/02/2016 06:51:33 devpinoyLogger Verifying the text in input box
+01/02/2016 06:51:33 devpinoyLogger Pass
+01/02/2016 06:51:33 devpinoyLogger verifyTextinInput
+01/02/2016 06:51:33 devpinoyLogger Verifying the text in input box
+01/02/2016 06:51:33 devpinoyLogger Pass
+01/02/2016 06:51:33 devpinoyLogger verifyButtonText
+01/02/2016 06:51:33 devpinoyLogger Verifying the button text
+01/02/2016 06:51:33 devpinoyLogger Pass
+01/02/2016 06:51:33 devpinoyLogger clickButton
+01/02/2016 06:51:33 devpinoyLogger Clicking on Button
+01/02/2016 06:51:46 devpinoyLogger Pass
+01/02/2016 06:51:47 devpinoyLogger pause
+01/02/2016 06:51:47 devpinoyLogger Waiting
+01/02/2016 06:51:52 devpinoyLogger Pass
+01/02/2016 06:51:52 devpinoyLogger waitForElement
+01/02/2016 06:51:52 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 06:51:52 devpinoyLogger Pass
+01/02/2016 06:51:52 devpinoyLogger clickButton
+01/02/2016 06:51:52 devpinoyLogger Clicking on Button
+01/02/2016 06:51:52 devpinoyLogger Pass
+01/02/2016 06:51:52 devpinoyLogger pause
+01/02/2016 06:51:52 devpinoyLogger Waiting
+01/02/2016 06:51:57 devpinoyLogger Pass
+01/02/2016 06:51:57 devpinoyLogger waitForElement
+01/02/2016 06:51:57 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 06:51:57 devpinoyLogger Pass
+01/02/2016 06:51:57 devpinoyLogger clickButton
+01/02/2016 06:51:57 devpinoyLogger Clicking on Button
+01/02/2016 06:51:57 devpinoyLogger Pass
+01/02/2016 06:51:57 devpinoyLogger pause
+01/02/2016 06:51:57 devpinoyLogger Waiting
+01/02/2016 06:52:02 devpinoyLogger Pass
+01/02/2016 06:52:02 devpinoyLogger rightclick_appointment
+01/02/2016 06:52:02 devpinoyLogger Right click Action
+01/02/2016 06:52:07 devpinoyLogger Pass
+01/02/2016 06:52:07 devpinoyLogger pause
+01/02/2016 06:52:07 devpinoyLogger Waiting
+01/02/2016 06:52:10 devpinoyLogger Pass
+01/02/2016 06:52:10 devpinoyLogger writeInInput
+01/02/2016 06:52:10 devpinoyLogger Writing in text box
+01/02/2016 06:52:10 devpinoyLogger Pass
+01/02/2016 06:52:10 devpinoyLogger clickButton
+01/02/2016 06:52:10 devpinoyLogger Clicking on Button
+01/02/2016 06:52:12 devpinoyLogger Pass
+01/02/2016 06:52:12 devpinoyLogger clickButton
+01/02/2016 06:52:12 devpinoyLogger Clicking on Button
+01/02/2016 06:52:12 devpinoyLogger Pass
+01/02/2016 06:52:12 devpinoyLogger pause
+01/02/2016 06:52:12 devpinoyLogger Waiting
+01/02/2016 06:52:17 devpinoyLogger Pass
+01/02/2016 06:52:17 devpinoyLogger verify_alert
+01/02/2016 06:52:17 devpinoyLogger Verfiying alert box title
+01/02/2016 06:52:17 devpinoyLogger Pass
+01/02/2016 06:52:17 devpinoyLogger clickButton
+01/02/2016 06:52:17 devpinoyLogger Clicking on Button
+01/02/2016 06:52:17 devpinoyLogger Pass
+01/02/2016 06:52:17 devpinoyLogger pause
+01/02/2016 06:52:17 devpinoyLogger Waiting
+01/02/2016 06:52:18 devpinoyLogger Pass
+01/02/2016 06:52:18 devpinoyLogger writeInInput
+01/02/2016 06:52:18 devpinoyLogger Writing in text box
+01/02/2016 06:52:18 devpinoyLogger Pass
+01/02/2016 06:52:18 devpinoyLogger clickButton
+01/02/2016 06:52:18 devpinoyLogger Clicking on Button
+01/02/2016 06:52:18 devpinoyLogger Pass
+01/02/2016 06:52:18 devpinoyLogger visit_type_selection
+01/02/2016 06:52:18 devpinoyLogger Selecting visit type
+01/02/2016 06:52:19 devpinoyLogger Pass
+01/02/2016 06:52:19 devpinoyLogger clickButton
+01/02/2016 06:52:19 devpinoyLogger Clicking on Button
+01/02/2016 06:52:19 devpinoyLogger Pass
+01/02/2016 06:52:19 devpinoyLogger clickButton
+01/02/2016 06:52:19 devpinoyLogger Clicking on Button
+01/02/2016 06:52:19 devpinoyLogger Pass
+01/02/2016 06:52:19 devpinoyLogger writeInInput
+01/02/2016 06:52:19 devpinoyLogger Writing in text box
+01/02/2016 06:52:19 devpinoyLogger Pass
+01/02/2016 06:52:19 devpinoyLogger writeInInput
+01/02/2016 06:52:19 devpinoyLogger Writing in text box
+01/02/2016 06:52:19 devpinoyLogger Pass
+01/02/2016 06:52:19 devpinoyLogger clickButton
+01/02/2016 06:52:19 devpinoyLogger Clicking on Button
+01/02/2016 06:52:20 devpinoyLogger Pass
+01/02/2016 06:52:20 devpinoyLogger pause
+01/02/2016 06:52:20 devpinoyLogger Waiting
+01/02/2016 06:52:23 devpinoyLogger Pass
+01/02/2016 06:52:23 devpinoyLogger check_exisiting_appointment
+01/02/2016 06:52:23 devpinoyLogger Alert box checking
+01/02/2016 06:52:23 devpinoyLogger Alert box Found
+01/02/2016 06:52:26 devpinoyLogger Clicking on Button
+01/02/2016 06:52:29 devpinoyLogger Clicking on Button
+01/02/2016 06:52:44 devpinoyLogger Pass
+01/02/2016 06:52:44 devpinoyLogger check_exisiting_appointment
+01/02/2016 06:52:44 devpinoyLogger Alert box checking
+01/02/2016 06:52:59 devpinoyLogger Skip
+01/02/2016 06:52:59 devpinoyLogger closeBroswer
+01/02/2016 06:52:59 devpinoyLogger Closing the browser
+01/02/2016 06:53:00 devpinoyLogger Pass
+01/02/2016 06:53:06 devpinoyLogger Iteration number2
+01/02/2016 06:53:08 devpinoyLogger Iteration number3
+01/02/2016 06:53:09 devpinoyLogger Clinical_Notes_Pre_Test--Y
+01/02/2016 06:53:09 devpinoyLogger Exceution of test case   Clinical_Notes_Pre_Test
+01/02/2016 06:53:09 devpinoyLogger openBrowser
+01/02/2016 06:53:09 devpinoyLogger Opening the browser
+01/02/2016 06:53:17 devpinoyLogger Pass
+01/02/2016 06:53:17 devpinoyLogger navigate
+01/02/2016 06:53:17 devpinoyLogger Navigating to URL
+01/02/2016 06:53:23 devpinoyLogger Pass
+01/02/2016 06:53:23 devpinoyLogger writeInInput
+01/02/2016 06:53:23 devpinoyLogger Writing in text box
+01/02/2016 06:53:23 devpinoyLogger Pass
+01/02/2016 06:53:23 devpinoyLogger writeInInput
+01/02/2016 06:53:23 devpinoyLogger Writing in text box
+01/02/2016 06:53:23 devpinoyLogger Pass
+01/02/2016 06:53:23 devpinoyLogger verifyTextinInput
+01/02/2016 06:53:23 devpinoyLogger Verifying the text in input box
+01/02/2016 06:53:23 devpinoyLogger Pass
+01/02/2016 06:53:23 devpinoyLogger verifyTextinInput
+01/02/2016 06:53:23 devpinoyLogger Verifying the text in input box
+01/02/2016 06:53:23 devpinoyLogger Pass
+01/02/2016 06:53:23 devpinoyLogger verifyButtonText
+01/02/2016 06:53:23 devpinoyLogger Verifying the button text
+01/02/2016 06:53:23 devpinoyLogger Pass
+01/02/2016 06:53:23 devpinoyLogger clickButton
+01/02/2016 06:53:23 devpinoyLogger Clicking on Button
+01/02/2016 06:53:30 devpinoyLogger Pass
+01/02/2016 06:53:30 devpinoyLogger pause
+01/02/2016 06:53:30 devpinoyLogger Waiting
+01/02/2016 06:53:35 devpinoyLogger Pass
+01/02/2016 06:53:35 devpinoyLogger waitForElement
+01/02/2016 06:53:35 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 06:53:35 devpinoyLogger Pass
+01/02/2016 06:53:35 devpinoyLogger clickButton
+01/02/2016 06:53:35 devpinoyLogger Clicking on Button
+01/02/2016 06:53:35 devpinoyLogger Pass
+01/02/2016 06:53:35 devpinoyLogger pause
+01/02/2016 06:53:35 devpinoyLogger Waiting
+01/02/2016 06:53:40 devpinoyLogger Pass
+01/02/2016 06:53:40 devpinoyLogger waitForElement
+01/02/2016 06:53:40 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 06:53:40 devpinoyLogger Pass
+01/02/2016 06:53:40 devpinoyLogger clickButton
+01/02/2016 06:53:40 devpinoyLogger Clicking on Button
+01/02/2016 06:53:40 devpinoyLogger Pass
+01/02/2016 06:53:40 devpinoyLogger pause
+01/02/2016 06:53:40 devpinoyLogger Waiting
+01/02/2016 06:53:45 devpinoyLogger Pass
+01/02/2016 06:53:45 devpinoyLogger Right_Click_for_Clinical_Notes
+01/02/2016 06:53:45 devpinoyLogger Clicking Right Click
+01/02/2016 06:53:51 devpinoyLogger Pass
+01/02/2016 06:53:51 devpinoyLogger clickButton
+01/02/2016 06:53:51 devpinoyLogger Clicking on Button
+01/02/2016 06:54:10 devpinoyLogger Fail--Not able to click button
+01/02/2016 06:54:10 devpinoyLogger clickButton
+01/02/2016 06:54:10 devpinoyLogger Clicking on Button
+01/02/2016 06:54:11 devpinoyLogger Pass
+01/02/2016 06:54:11 devpinoyLogger clickButton
+01/02/2016 06:54:11 devpinoyLogger Clicking on Button
+01/02/2016 06:54:11 devpinoyLogger Pass
+01/02/2016 06:54:11 devpinoyLogger clickButton
+01/02/2016 06:54:11 devpinoyLogger Clicking on Button
+01/02/2016 06:54:11 devpinoyLogger Pass
+01/02/2016 06:54:11 devpinoyLogger pause
+01/02/2016 06:54:11 devpinoyLogger Waiting
+01/02/2016 06:54:14 devpinoyLogger Pass
+01/02/2016 06:54:14 devpinoyLogger clickButton
+01/02/2016 06:54:14 devpinoyLogger Clicking on Button
+01/02/2016 06:54:14 devpinoyLogger Pass
+01/02/2016 06:54:14 devpinoyLogger pause
+01/02/2016 06:54:14 devpinoyLogger Waiting
+01/02/2016 06:54:19 devpinoyLogger Pass
+01/02/2016 06:54:19 devpinoyLogger clickButton
+01/02/2016 06:54:19 devpinoyLogger Clicking on Button
+01/02/2016 06:54:19 devpinoyLogger Pass
+01/02/2016 06:54:19 devpinoyLogger pause
+01/02/2016 06:54:19 devpinoyLogger Waiting
+01/02/2016 06:54:24 devpinoyLogger Pass
+01/02/2016 06:54:24 devpinoyLogger clickButton
+01/02/2016 06:54:24 devpinoyLogger Clicking on Button
+01/02/2016 06:54:24 devpinoyLogger Pass
+01/02/2016 06:54:24 devpinoyLogger Fill_rx_data
+01/02/2016 06:54:24 devpinoyLogger Adding data in Rx
+01/02/2016 06:54:27 devpinoyLogger Clicking on Button
+01/02/2016 06:54:31 devpinoyLogger Clicking on Button
+01/02/2016 06:54:34 devpinoyLogger Clicking on Button
+01/02/2016 06:54:37 devpinoyLogger Clicking on Button
+01/02/2016 06:54:40 devpinoyLogger Clicking on Button
+01/02/2016 06:54:43 devpinoyLogger Clicking on Button
+01/02/2016 06:54:46 devpinoyLogger Clicking on Button
+01/02/2016 06:54:49 devpinoyLogger Clicking on Button
+01/02/2016 06:54:52 devpinoyLogger Clicking on Button
+01/02/2016 06:54:55 devpinoyLogger Clicking on Button
+01/02/2016 06:54:58 devpinoyLogger Clicking on Button
+01/02/2016 06:55:01 devpinoyLogger Clicking on Button
+01/02/2016 06:55:05 devpinoyLogger Clicking on Button
+01/02/2016 06:55:08 devpinoyLogger Clicking on Button
+01/02/2016 06:55:11 devpinoyLogger Clicking on Button
+01/02/2016 06:55:14 devpinoyLogger Clicking on Button
+01/02/2016 06:55:17 devpinoyLogger Clicking on Button
+01/02/2016 06:55:20 devpinoyLogger Clicking on Button
+01/02/2016 06:55:23 devpinoyLogger Clicking on Button
+01/02/2016 06:55:26 devpinoyLogger Clicking on Button
+01/02/2016 06:55:30 devpinoyLogger Clicking on Button
+01/02/2016 06:55:33 devpinoyLogger Clicking on Button
+01/02/2016 06:55:36 devpinoyLogger Clicking on Button
+01/02/2016 06:55:39 devpinoyLogger Clicking on Button
+01/02/2016 06:55:39 devpinoyLogger Pass
+01/02/2016 06:55:39 devpinoyLogger writeInInput
+01/02/2016 06:55:39 devpinoyLogger Writing in text box
+01/02/2016 06:55:39 devpinoyLogger Pass
+01/02/2016 06:55:39 devpinoyLogger pause
+01/02/2016 06:55:39 devpinoyLogger Waiting
+01/02/2016 06:55:42 devpinoyLogger Pass
+01/02/2016 06:55:42 devpinoyLogger clickButton
+01/02/2016 06:55:42 devpinoyLogger Clicking on Button
+01/02/2016 06:55:42 devpinoyLogger Pass
+01/02/2016 06:55:42 devpinoyLogger clickButton
+01/02/2016 06:55:42 devpinoyLogger Clicking on Button
+01/02/2016 06:55:42 devpinoyLogger Pass
+01/02/2016 06:55:42 devpinoyLogger Fill_Auto_Refractor_data
+01/02/2016 06:55:42 devpinoyLogger Adding data in Auto Refractor
+01/02/2016 06:55:45 devpinoyLogger Clicking on Button
+01/02/2016 06:55:49 devpinoyLogger Clicking on Button
+01/02/2016 06:55:52 devpinoyLogger Clicking on Button
+01/02/2016 06:55:55 devpinoyLogger Clicking on Button
+01/02/2016 06:55:58 devpinoyLogger Clicking on Button
+01/02/2016 06:56:01 devpinoyLogger Clicking on Button
+01/02/2016 06:56:04 devpinoyLogger Clicking on Button
+01/02/2016 06:56:04 devpinoyLogger Pass
+01/02/2016 06:56:04 devpinoyLogger writeInInput
+01/02/2016 06:56:04 devpinoyLogger Writing in text box
+01/02/2016 06:56:04 devpinoyLogger Pass
+01/02/2016 06:56:04 devpinoyLogger clickButton
+01/02/2016 06:56:04 devpinoyLogger Clicking on Button
+01/02/2016 06:56:04 devpinoyLogger Pass
+01/02/2016 06:56:04 devpinoyLogger pause
+01/02/2016 06:56:04 devpinoyLogger Waiting
+01/02/2016 06:56:07 devpinoyLogger Pass
+01/02/2016 06:56:07 devpinoyLogger clickButton
+01/02/2016 06:56:07 devpinoyLogger Clicking on Button
+01/02/2016 06:56:08 devpinoyLogger Pass
+01/02/2016 06:56:08 devpinoyLogger pause
+01/02/2016 06:56:08 devpinoyLogger Waiting
+01/02/2016 06:56:11 devpinoyLogger Pass
+01/02/2016 06:56:11 devpinoyLogger verifyRadioSelected
+01/02/2016 06:56:11 devpinoyLogger Verify Radio Selected
+01/02/2016 06:56:11 devpinoyLogger Pass
+01/02/2016 06:56:11 devpinoyLogger verifyRadioSelected
+01/02/2016 06:56:11 devpinoyLogger Verify Radio Selected
+01/02/2016 06:56:11 devpinoyLogger Fail- Radio not selected
+01/02/2016 06:56:11 devpinoyLogger writeInInput
+01/02/2016 06:56:11 devpinoyLogger Writing in text box
+01/02/2016 06:56:11 devpinoyLogger Pass
+01/02/2016 06:56:11 devpinoyLogger Auto_k
+01/02/2016 06:56:11 devpinoyLogger Entering Auto K values
+01/02/2016 06:56:12 devpinoyLogger Clicking on Button
+01/02/2016 06:56:13 devpinoyLogger Clicking on Button
+01/02/2016 06:56:15 devpinoyLogger Clicking on Button
+01/02/2016 06:56:16 devpinoyLogger Clicking on Button
+01/02/2016 06:56:17 devpinoyLogger Clicking on Button
+01/02/2016 06:56:18 devpinoyLogger Clicking on Button
+01/02/2016 06:56:18 devpinoyLogger Pass
+01/02/2016 06:56:18 devpinoyLogger clickButton
+01/02/2016 06:56:18 devpinoyLogger Clicking on Button
+01/02/2016 06:56:18 devpinoyLogger Pass
+01/02/2016 06:56:18 devpinoyLogger pause
+01/02/2016 06:56:18 devpinoyLogger Waiting
+01/02/2016 06:56:21 devpinoyLogger Pass
+01/02/2016 06:56:21 devpinoyLogger clickButton
+01/02/2016 06:56:21 devpinoyLogger Clicking on Button
+01/02/2016 06:56:21 devpinoyLogger Pass
+01/02/2016 06:56:21 devpinoyLogger IOP_values
+01/02/2016 06:56:21 devpinoyLogger Entering IOP_values 
+01/02/2016 06:56:22 devpinoyLogger Clicking on Button
+01/02/2016 06:56:24 devpinoyLogger Clicking on Button
+01/02/2016 06:56:25 devpinoyLogger Clicking on Button
+01/02/2016 06:56:26 devpinoyLogger Clicking on Button
+01/02/2016 06:56:27 devpinoyLogger Clicking on Button
+01/02/2016 06:56:28 devpinoyLogger Clicking on Button
+01/02/2016 06:56:30 devpinoyLogger Clicking on Button
+01/02/2016 06:56:31 devpinoyLogger Clicking on Button
+01/02/2016 06:56:31 devpinoyLogger Pass
+01/02/2016 06:56:31 devpinoyLogger writeInInput
+01/02/2016 06:56:31 devpinoyLogger Writing in text box
+01/02/2016 06:56:31 devpinoyLogger Pass
+01/02/2016 06:56:31 devpinoyLogger clickButton
+01/02/2016 06:56:31 devpinoyLogger Clicking on Button
+01/02/2016 06:56:31 devpinoyLogger Pass
+01/02/2016 06:56:31 devpinoyLogger clickButton
+01/02/2016 06:56:31 devpinoyLogger Clicking on Button
+01/02/2016 06:56:31 devpinoyLogger Pass
+01/02/2016 06:56:31 devpinoyLogger writeInInput
+01/02/2016 06:56:31 devpinoyLogger Writing in text box
+01/02/2016 06:56:31 devpinoyLogger Pass
+01/02/2016 06:56:31 devpinoyLogger clickButton
+01/02/2016 06:56:31 devpinoyLogger Clicking on Button
+01/02/2016 06:56:31 devpinoyLogger Pass
+01/02/2016 06:56:31 devpinoyLogger clickButton
+01/02/2016 06:56:31 devpinoyLogger Clicking on Button
+01/02/2016 06:56:32 devpinoyLogger Pass
+01/02/2016 06:56:32 devpinoyLogger clickButton
+01/02/2016 06:56:32 devpinoyLogger Clicking on Button
+01/02/2016 06:56:32 devpinoyLogger Pass
+01/02/2016 06:56:32 devpinoyLogger clickButton
+01/02/2016 06:56:32 devpinoyLogger Clicking on Button
+01/02/2016 06:56:32 devpinoyLogger Pass
+01/02/2016 06:56:32 devpinoyLogger writeInInput
+01/02/2016 06:56:32 devpinoyLogger Writing in text box
+01/02/2016 06:56:32 devpinoyLogger Pass
+01/02/2016 06:56:32 devpinoyLogger clickButton
+01/02/2016 06:56:32 devpinoyLogger Clicking on Button
+01/02/2016 06:56:32 devpinoyLogger Pass
+01/02/2016 06:56:32 devpinoyLogger pause
+01/02/2016 06:56:32 devpinoyLogger Waiting
+01/02/2016 06:56:35 devpinoyLogger Pass
+01/02/2016 06:56:35 devpinoyLogger closeBroswer
+01/02/2016 06:56:35 devpinoyLogger Closing the browser
+01/02/2016 06:56:37 devpinoyLogger Pass
+01/02/2016 06:56:40 devpinoyLogger Clinical_Notes_History--Y
+01/02/2016 06:56:40 devpinoyLogger Exceution of test case   Clinical_Notes_History
+01/02/2016 06:56:40 devpinoyLogger openBrowser
+01/02/2016 06:56:40 devpinoyLogger Opening the browser
+01/02/2016 06:56:45 devpinoyLogger Pass
+01/02/2016 06:56:45 devpinoyLogger navigate
+01/02/2016 06:56:45 devpinoyLogger Navigating to URL
+01/02/2016 06:56:50 devpinoyLogger Pass
+01/02/2016 06:56:50 devpinoyLogger writeInInput
+01/02/2016 06:56:50 devpinoyLogger Writing in text box
+01/02/2016 06:56:50 devpinoyLogger Pass
+01/02/2016 06:56:50 devpinoyLogger writeInInput
+01/02/2016 06:56:50 devpinoyLogger Writing in text box
+01/02/2016 06:56:50 devpinoyLogger Pass
+01/02/2016 06:56:50 devpinoyLogger verifyTextinInput
+01/02/2016 06:56:50 devpinoyLogger Verifying the text in input box
+01/02/2016 06:56:50 devpinoyLogger Pass
+01/02/2016 06:56:50 devpinoyLogger verifyTextinInput
+01/02/2016 06:56:50 devpinoyLogger Verifying the text in input box
+01/02/2016 06:56:50 devpinoyLogger Pass
+01/02/2016 06:56:50 devpinoyLogger verifyButtonText
+01/02/2016 06:56:50 devpinoyLogger Verifying the button text
+01/02/2016 06:56:50 devpinoyLogger Pass
+01/02/2016 06:56:50 devpinoyLogger clickButton
+01/02/2016 06:56:50 devpinoyLogger Clicking on Button
+01/02/2016 06:56:58 devpinoyLogger Pass
+01/02/2016 06:56:58 devpinoyLogger pause
+01/02/2016 06:56:58 devpinoyLogger Waiting
+01/02/2016 06:57:03 devpinoyLogger Pass
+01/02/2016 06:57:03 devpinoyLogger waitForElement
+01/02/2016 06:57:03 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 06:57:03 devpinoyLogger Pass
+01/02/2016 06:57:03 devpinoyLogger clickButton
+01/02/2016 06:57:03 devpinoyLogger Clicking on Button
+01/02/2016 06:57:03 devpinoyLogger Pass
+01/02/2016 06:57:03 devpinoyLogger pause
+01/02/2016 06:57:03 devpinoyLogger Waiting
+01/02/2016 06:57:08 devpinoyLogger Pass
+01/02/2016 06:57:08 devpinoyLogger waitForElement
+01/02/2016 06:57:08 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 06:57:08 devpinoyLogger Pass
+01/02/2016 06:57:08 devpinoyLogger clickButton
+01/02/2016 06:57:08 devpinoyLogger Clicking on Button
+01/02/2016 06:57:08 devpinoyLogger Pass
+01/02/2016 06:57:08 devpinoyLogger pause
+01/02/2016 06:57:08 devpinoyLogger Waiting
+01/02/2016 06:57:13 devpinoyLogger Pass
+01/02/2016 06:57:13 devpinoyLogger Right_Click_for_Clinical_Notes
+01/02/2016 06:57:13 devpinoyLogger Clicking Right Click
+01/02/2016 06:57:19 devpinoyLogger Pass
+01/02/2016 06:57:19 devpinoyLogger clickButton
+01/02/2016 06:57:19 devpinoyLogger Clicking on Button
+01/02/2016 06:57:26 devpinoyLogger Pass
+01/02/2016 06:57:26 devpinoyLogger clickButton
+01/02/2016 06:57:26 devpinoyLogger Clicking on Button
+01/02/2016 06:57:26 devpinoyLogger Pass
+01/02/2016 06:57:26 devpinoyLogger clickButton
+01/02/2016 06:57:26 devpinoyLogger Clicking on Button
+01/02/2016 06:57:27 devpinoyLogger Pass
+01/02/2016 06:57:27 devpinoyLogger pause
+01/02/2016 06:57:27 devpinoyLogger Waiting
+01/02/2016 06:57:30 devpinoyLogger Pass
+01/02/2016 06:57:30 devpinoyLogger scroll_down
+01/02/2016 06:57:30 devpinoyLogger scroll down to element
+01/02/2016 06:57:30 devpinoyLogger Pass
+01/02/2016 06:57:30 devpinoyLogger clickButton
+01/02/2016 06:57:30 devpinoyLogger Clicking on Button
+01/02/2016 06:57:30 devpinoyLogger Pass
+01/02/2016 06:57:30 devpinoyLogger clickButton
+01/02/2016 06:57:30 devpinoyLogger Clicking on Button
+01/02/2016 06:57:33 devpinoyLogger Pass
+01/02/2016 06:57:33 devpinoyLogger clickButton
+01/02/2016 06:57:33 devpinoyLogger Clicking on Button
+01/02/2016 06:57:34 devpinoyLogger Pass
+01/02/2016 06:57:34 devpinoyLogger clickButton
+01/02/2016 06:57:34 devpinoyLogger Clicking on Button
+01/02/2016 06:57:34 devpinoyLogger Pass
+01/02/2016 06:57:34 devpinoyLogger clickButton
+01/02/2016 06:57:34 devpinoyLogger Clicking on Button
+01/02/2016 06:57:34 devpinoyLogger Pass
+01/02/2016 06:57:34 devpinoyLogger clickButton
+01/02/2016 06:57:34 devpinoyLogger Clicking on Button
+01/02/2016 06:57:36 devpinoyLogger Pass
+01/02/2016 06:57:36 devpinoyLogger clickButton
+01/02/2016 06:57:36 devpinoyLogger Clicking on Button
+01/02/2016 06:57:36 devpinoyLogger Pass
+01/02/2016 06:57:36 devpinoyLogger clickButton
+01/02/2016 06:57:36 devpinoyLogger Clicking on Button
+01/02/2016 06:57:36 devpinoyLogger Pass
+01/02/2016 06:57:36 devpinoyLogger pause
+01/02/2016 06:57:36 devpinoyLogger Waiting
+01/02/2016 06:57:39 devpinoyLogger Pass
+01/02/2016 06:57:39 devpinoyLogger closeBroswer
+01/02/2016 06:57:39 devpinoyLogger Closing the browser
+01/02/2016 06:57:41 devpinoyLogger Pass
+01/02/2016 06:57:42 devpinoyLogger Clinical_Notes_Investigate--Y
+01/02/2016 06:57:42 devpinoyLogger Exceution of test case   Clinical_Notes_Investigate
+01/02/2016 06:57:42 devpinoyLogger openBrowser
+01/02/2016 06:57:42 devpinoyLogger Opening the browser
+01/02/2016 06:57:47 devpinoyLogger Pass
+01/02/2016 06:57:47 devpinoyLogger navigate
+01/02/2016 06:57:47 devpinoyLogger Navigating to URL
+01/02/2016 06:57:53 devpinoyLogger Pass
+01/02/2016 06:57:53 devpinoyLogger writeInInput
+01/02/2016 06:57:53 devpinoyLogger Writing in text box
+01/02/2016 06:57:53 devpinoyLogger Pass
+01/02/2016 06:57:53 devpinoyLogger writeInInput
+01/02/2016 06:57:53 devpinoyLogger Writing in text box
+01/02/2016 06:57:53 devpinoyLogger Pass
+01/02/2016 06:57:53 devpinoyLogger verifyTextinInput
+01/02/2016 06:57:53 devpinoyLogger Verifying the text in input box
+01/02/2016 06:57:53 devpinoyLogger Pass
+01/02/2016 06:57:53 devpinoyLogger verifyTextinInput
+01/02/2016 06:57:53 devpinoyLogger Verifying the text in input box
+01/02/2016 06:57:53 devpinoyLogger Pass
+01/02/2016 06:57:53 devpinoyLogger verifyButtonText
+01/02/2016 06:57:53 devpinoyLogger Verifying the button text
+01/02/2016 06:57:53 devpinoyLogger Pass
+01/02/2016 06:57:53 devpinoyLogger clickButton
+01/02/2016 06:57:53 devpinoyLogger Clicking on Button
+01/02/2016 06:58:00 devpinoyLogger Pass
+01/02/2016 06:58:00 devpinoyLogger pause
+01/02/2016 06:58:00 devpinoyLogger Waiting
+01/02/2016 06:58:05 devpinoyLogger Pass
+01/02/2016 06:58:05 devpinoyLogger waitForElement
+01/02/2016 06:58:05 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 06:58:05 devpinoyLogger Pass
+01/02/2016 06:58:05 devpinoyLogger clickButton
+01/02/2016 06:58:05 devpinoyLogger Clicking on Button
+01/02/2016 06:58:05 devpinoyLogger Pass
+01/02/2016 06:58:05 devpinoyLogger pause
+01/02/2016 06:58:05 devpinoyLogger Waiting
+01/02/2016 06:58:10 devpinoyLogger Pass
+01/02/2016 06:58:10 devpinoyLogger waitForElement
+01/02/2016 06:58:10 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 06:58:10 devpinoyLogger Pass
+01/02/2016 06:58:10 devpinoyLogger clickButton
+01/02/2016 06:58:10 devpinoyLogger Clicking on Button
+01/02/2016 06:58:10 devpinoyLogger Pass
+01/02/2016 06:58:10 devpinoyLogger pause
+01/02/2016 06:58:10 devpinoyLogger Waiting
+01/02/2016 06:58:15 devpinoyLogger Pass
+01/02/2016 06:58:15 devpinoyLogger Right_Click_for_Clinical_Notes
+01/02/2016 06:58:15 devpinoyLogger Clicking Right Click
+01/02/2016 06:58:21 devpinoyLogger Pass
+01/02/2016 06:58:21 devpinoyLogger clickButton
+01/02/2016 06:58:21 devpinoyLogger Clicking on Button
+01/02/2016 06:58:28 devpinoyLogger Fail--Not able to click button
+01/02/2016 06:58:28 devpinoyLogger clickButton
+01/02/2016 06:58:28 devpinoyLogger Clicking on Button
+01/02/2016 06:58:28 devpinoyLogger Pass
+01/02/2016 06:58:28 devpinoyLogger pause
+01/02/2016 06:58:28 devpinoyLogger Waiting
+01/02/2016 06:58:31 devpinoyLogger Pass
+01/02/2016 06:58:31 devpinoyLogger scroll_down
+01/02/2016 06:58:31 devpinoyLogger scroll down to element
+01/02/2016 06:58:31 devpinoyLogger Pass
+01/02/2016 06:58:31 devpinoyLogger clickButton
+01/02/2016 06:58:31 devpinoyLogger Clicking on Button
+01/02/2016 06:58:31 devpinoyLogger Pass
+01/02/2016 06:58:31 devpinoyLogger pause
+01/02/2016 06:58:31 devpinoyLogger Waiting
+01/02/2016 06:58:34 devpinoyLogger Pass
+01/02/2016 06:58:34 devpinoyLogger clickButton
+01/02/2016 06:58:34 devpinoyLogger Clicking on Button
+01/02/2016 06:58:35 devpinoyLogger Pass
+01/02/2016 06:58:35 devpinoyLogger writeInInput
+01/02/2016 06:58:35 devpinoyLogger Writing in text box
+01/02/2016 06:58:35 devpinoyLogger Pass
+01/02/2016 06:58:35 devpinoyLogger clickButton
+01/02/2016 06:58:35 devpinoyLogger Clicking on Button
+01/02/2016 06:58:35 devpinoyLogger Pass
+01/02/2016 06:58:35 devpinoyLogger pause
+01/02/2016 06:58:35 devpinoyLogger Waiting
+01/02/2016 06:58:37 devpinoyLogger Pass
+01/02/2016 06:58:37 devpinoyLogger clickButton
+01/02/2016 06:58:37 devpinoyLogger Clicking on Button
+01/02/2016 06:58:37 devpinoyLogger Pass
+01/02/2016 06:58:37 devpinoyLogger pause
+01/02/2016 06:58:37 devpinoyLogger Waiting
+01/02/2016 06:58:39 devpinoyLogger Pass
+01/02/2016 06:58:39 devpinoyLogger clickButton
+01/02/2016 06:58:39 devpinoyLogger Clicking on Button
+01/02/2016 06:58:39 devpinoyLogger Pass
+01/02/2016 06:58:39 devpinoyLogger pause
+01/02/2016 06:58:39 devpinoyLogger Waiting
+01/02/2016 06:58:40 devpinoyLogger Pass
+01/02/2016 06:58:40 devpinoyLogger clickButton
+01/02/2016 06:58:40 devpinoyLogger Clicking on Button
+01/02/2016 06:58:40 devpinoyLogger Pass
+01/02/2016 06:58:40 devpinoyLogger pause
+01/02/2016 06:58:40 devpinoyLogger Waiting
+01/02/2016 06:58:41 devpinoyLogger Pass
+01/02/2016 06:58:41 devpinoyLogger clickButton
+01/02/2016 06:58:41 devpinoyLogger Clicking on Button
+01/02/2016 06:58:41 devpinoyLogger Pass
+01/02/2016 06:58:41 devpinoyLogger pause
+01/02/2016 06:58:41 devpinoyLogger Waiting
+01/02/2016 06:58:42 devpinoyLogger Pass
+01/02/2016 06:58:42 devpinoyLogger clickButton
+01/02/2016 06:58:42 devpinoyLogger Clicking on Button
+01/02/2016 06:58:42 devpinoyLogger Pass
+01/02/2016 06:58:42 devpinoyLogger pause
+01/02/2016 06:58:42 devpinoyLogger Waiting
+01/02/2016 06:58:43 devpinoyLogger Pass
+01/02/2016 06:58:43 devpinoyLogger clickButton
+01/02/2016 06:58:43 devpinoyLogger Clicking on Button
+01/02/2016 06:58:43 devpinoyLogger Pass
+01/02/2016 06:58:43 devpinoyLogger pause
+01/02/2016 06:58:43 devpinoyLogger Waiting
+01/02/2016 06:58:44 devpinoyLogger Pass
+01/02/2016 06:58:44 devpinoyLogger clickButton
+01/02/2016 06:58:44 devpinoyLogger Clicking on Button
+01/02/2016 06:58:45 devpinoyLogger Pass
+01/02/2016 06:58:45 devpinoyLogger clickButton
+01/02/2016 06:58:45 devpinoyLogger Clicking on Button
+01/02/2016 06:58:45 devpinoyLogger Pass
+01/02/2016 06:58:45 devpinoyLogger clickButton
+01/02/2016 06:58:45 devpinoyLogger Clicking on Button
+01/02/2016 06:58:45 devpinoyLogger Pass
+01/02/2016 06:58:45 devpinoyLogger writeInInput
+01/02/2016 06:58:45 devpinoyLogger Writing in text box
+01/02/2016 06:58:45 devpinoyLogger Pass
+01/02/2016 06:58:45 devpinoyLogger clickButton
+01/02/2016 06:58:45 devpinoyLogger Clicking on Button
+01/02/2016 06:58:45 devpinoyLogger Pass
+01/02/2016 06:58:45 devpinoyLogger pause
+01/02/2016 06:58:45 devpinoyLogger Waiting
+01/02/2016 06:58:47 devpinoyLogger Pass
+01/02/2016 06:58:47 devpinoyLogger clickButton
+01/02/2016 06:58:47 devpinoyLogger Clicking on Button
+01/02/2016 06:58:47 devpinoyLogger Pass
+01/02/2016 06:58:47 devpinoyLogger pause
+01/02/2016 06:58:47 devpinoyLogger Waiting
+01/02/2016 06:58:49 devpinoyLogger Pass
+01/02/2016 06:58:49 devpinoyLogger clickButton
+01/02/2016 06:58:49 devpinoyLogger Clicking on Button
+01/02/2016 06:58:49 devpinoyLogger Pass
+01/02/2016 06:58:49 devpinoyLogger pause
+01/02/2016 06:58:49 devpinoyLogger Waiting
+01/02/2016 06:58:50 devpinoyLogger Pass
+01/02/2016 06:58:50 devpinoyLogger clickButton
+01/02/2016 06:58:50 devpinoyLogger Clicking on Button
+01/02/2016 06:58:50 devpinoyLogger Pass
+01/02/2016 06:58:50 devpinoyLogger pause
+01/02/2016 06:58:50 devpinoyLogger Waiting
+01/02/2016 06:58:51 devpinoyLogger Pass
+01/02/2016 06:58:51 devpinoyLogger clickButton
+01/02/2016 06:58:51 devpinoyLogger Clicking on Button
+01/02/2016 06:58:51 devpinoyLogger Pass
+01/02/2016 06:58:51 devpinoyLogger pause
+01/02/2016 06:58:51 devpinoyLogger Waiting
+01/02/2016 06:58:52 devpinoyLogger Pass
+01/02/2016 06:58:52 devpinoyLogger clickButton
+01/02/2016 06:58:52 devpinoyLogger Clicking on Button
+01/02/2016 06:58:52 devpinoyLogger Pass
+01/02/2016 06:58:52 devpinoyLogger pause
+01/02/2016 06:58:52 devpinoyLogger Waiting
+01/02/2016 06:58:53 devpinoyLogger Pass
+01/02/2016 06:58:53 devpinoyLogger clickButton
+01/02/2016 06:58:53 devpinoyLogger Clicking on Button
+01/02/2016 06:58:53 devpinoyLogger Pass
+01/02/2016 06:58:53 devpinoyLogger pause
+01/02/2016 06:58:53 devpinoyLogger Waiting
+01/02/2016 06:58:54 devpinoyLogger Pass
+01/02/2016 06:58:54 devpinoyLogger clickButton
+01/02/2016 06:58:54 devpinoyLogger Clicking on Button
+01/02/2016 06:58:54 devpinoyLogger Pass
+01/02/2016 06:58:54 devpinoyLogger clickButton
+01/02/2016 06:58:54 devpinoyLogger Clicking on Button
+01/02/2016 06:58:54 devpinoyLogger Pass
+01/02/2016 06:58:54 devpinoyLogger clickButton
+01/02/2016 06:58:54 devpinoyLogger Clicking on Button
+01/02/2016 06:58:55 devpinoyLogger Pass
+01/02/2016 06:58:55 devpinoyLogger cover_test_without_rx
+01/02/2016 06:58:55 devpinoyLogger Enteringcover_test_without_rx values 
+01/02/2016 06:58:56 devpinoyLogger Clicking on Button
+01/02/2016 06:58:57 devpinoyLogger Clicking on Button
+01/02/2016 06:58:58 devpinoyLogger Clicking on Button
+01/02/2016 06:58:59 devpinoyLogger Clicking on Button
+01/02/2016 06:58:59 devpinoyLogger Pass
+01/02/2016 06:58:59 devpinoyLogger writeInInput
+01/02/2016 06:58:59 devpinoyLogger Writing in text box
+01/02/2016 06:58:59 devpinoyLogger Pass
+01/02/2016 06:58:59 devpinoyLogger clickButton
+01/02/2016 06:58:59 devpinoyLogger Clicking on Button
+01/02/2016 06:58:59 devpinoyLogger Pass
+01/02/2016 06:58:59 devpinoyLogger clickButton
+01/02/2016 06:58:59 devpinoyLogger Clicking on Button
+01/02/2016 06:59:00 devpinoyLogger Pass
+01/02/2016 06:59:00 devpinoyLogger cover_test_with_rx
+01/02/2016 06:59:00 devpinoyLogger Enteringcover_test_with_rx values 
+01/02/2016 06:59:01 devpinoyLogger Clicking on Button
+01/02/2016 06:59:02 devpinoyLogger Clicking on Button
+01/02/2016 06:59:03 devpinoyLogger Clicking on Button
+01/02/2016 06:59:04 devpinoyLogger Clicking on Button
+01/02/2016 06:59:04 devpinoyLogger Pass
+01/02/2016 06:59:04 devpinoyLogger writeInInput
+01/02/2016 06:59:04 devpinoyLogger Writing in text box
+01/02/2016 06:59:04 devpinoyLogger Pass
+01/02/2016 06:59:04 devpinoyLogger clickButton
+01/02/2016 06:59:04 devpinoyLogger Clicking on Button
+01/02/2016 06:59:04 devpinoyLogger Pass
+01/02/2016 06:59:04 devpinoyLogger pause
+01/02/2016 06:59:04 devpinoyLogger Waiting
+01/02/2016 06:59:07 devpinoyLogger Pass
+01/02/2016 06:59:07 devpinoyLogger clickButton
+01/02/2016 06:59:07 devpinoyLogger Clicking on Button
+01/02/2016 06:59:07 devpinoyLogger Pass
+01/02/2016 06:59:07 devpinoyLogger cover_test_with_rx
+01/02/2016 06:59:07 devpinoyLogger Enteringcover_test_with_rx values 
+01/02/2016 06:59:08 devpinoyLogger Clicking on Button
+01/02/2016 06:59:10 devpinoyLogger Clicking on Button
+01/02/2016 06:59:11 devpinoyLogger Clicking on Button
+01/02/2016 06:59:12 devpinoyLogger Clicking on Button
+01/02/2016 06:59:12 devpinoyLogger Pass
+01/02/2016 06:59:12 devpinoyLogger writeInInput
+01/02/2016 06:59:12 devpinoyLogger Writing in text box
+01/02/2016 06:59:12 devpinoyLogger Pass
+01/02/2016 06:59:12 devpinoyLogger clickButton
+01/02/2016 06:59:12 devpinoyLogger Clicking on Button
+01/02/2016 06:59:12 devpinoyLogger Pass
+01/02/2016 06:59:12 devpinoyLogger clickButton
+01/02/2016 06:59:12 devpinoyLogger Clicking on Button
+01/02/2016 06:59:12 devpinoyLogger Pass
+01/02/2016 06:59:12 devpinoyLogger cover_test_with_rx
+01/02/2016 06:59:12 devpinoyLogger Enteringcover_test_with_rx values 
+01/02/2016 06:59:13 devpinoyLogger Clicking on Button
+01/02/2016 06:59:14 devpinoyLogger Clicking on Button
+01/02/2016 06:59:15 devpinoyLogger Clicking on Button
+01/02/2016 06:59:17 devpinoyLogger Clicking on Button
+01/02/2016 06:59:17 devpinoyLogger Pass
+01/02/2016 06:59:17 devpinoyLogger writeInInput
+01/02/2016 06:59:17 devpinoyLogger Writing in text box
+01/02/2016 06:59:17 devpinoyLogger Pass
+01/02/2016 06:59:17 devpinoyLogger clickButton
+01/02/2016 06:59:17 devpinoyLogger Clicking on Button
+01/02/2016 06:59:17 devpinoyLogger Pass
+01/02/2016 06:59:17 devpinoyLogger clickButton
+01/02/2016 06:59:17 devpinoyLogger Clicking on Button
+01/02/2016 06:59:17 devpinoyLogger Pass
+01/02/2016 06:59:17 devpinoyLogger pause
+01/02/2016 06:59:17 devpinoyLogger Waiting
+01/02/2016 06:59:19 devpinoyLogger Pass
+01/02/2016 06:59:19 devpinoyLogger clickButton
+01/02/2016 06:59:19 devpinoyLogger Clicking on Button
+01/02/2016 06:59:19 devpinoyLogger Pass
+01/02/2016 06:59:19 devpinoyLogger clickButton
+01/02/2016 06:59:19 devpinoyLogger Clicking on Button
+01/02/2016 06:59:19 devpinoyLogger Pass
+01/02/2016 06:59:19 devpinoyLogger clickButton
+01/02/2016 06:59:19 devpinoyLogger Clicking on Button
+01/02/2016 06:59:19 devpinoyLogger Pass
+01/02/2016 06:59:19 devpinoyLogger clickButton
+01/02/2016 06:59:19 devpinoyLogger Clicking on Button
+01/02/2016 06:59:19 devpinoyLogger Pass
+01/02/2016 06:59:19 devpinoyLogger clickButton
+01/02/2016 06:59:19 devpinoyLogger Clicking on Button
+01/02/2016 06:59:19 devpinoyLogger Pass
+01/02/2016 06:59:19 devpinoyLogger pause
+01/02/2016 06:59:19 devpinoyLogger Waiting
+01/02/2016 06:59:21 devpinoyLogger Pass
+01/02/2016 06:59:21 devpinoyLogger clickButton
+01/02/2016 06:59:21 devpinoyLogger Clicking on Button
+01/02/2016 06:59:21 devpinoyLogger Pass
+01/02/2016 06:59:21 devpinoyLogger clickButton
+01/02/2016 06:59:21 devpinoyLogger Clicking on Button
+01/02/2016 06:59:23 devpinoyLogger Pass
+01/02/2016 06:59:23 devpinoyLogger pause
+01/02/2016 06:59:23 devpinoyLogger Waiting
+01/02/2016 06:59:25 devpinoyLogger Pass
+01/02/2016 06:59:25 devpinoyLogger closeBroswer
+01/02/2016 06:59:25 devpinoyLogger Closing the browser
+01/02/2016 06:59:26 devpinoyLogger Pass
+01/02/2016 06:59:31 devpinoyLogger Eye_Health--Y
+01/02/2016 06:59:31 devpinoyLogger Exceution of test case   Eye_Health
+01/02/2016 06:59:31 devpinoyLogger openBrowser
+01/02/2016 06:59:31 devpinoyLogger Opening the browser
+01/02/2016 06:59:36 devpinoyLogger Pass
+01/02/2016 06:59:36 devpinoyLogger navigate
+01/02/2016 06:59:36 devpinoyLogger Navigating to URL
+01/02/2016 06:59:41 devpinoyLogger Pass
+01/02/2016 06:59:41 devpinoyLogger writeInInput
+01/02/2016 06:59:41 devpinoyLogger Writing in text box
+01/02/2016 06:59:41 devpinoyLogger Pass
+01/02/2016 06:59:41 devpinoyLogger writeInInput
+01/02/2016 06:59:41 devpinoyLogger Writing in text box
+01/02/2016 06:59:41 devpinoyLogger Pass
+01/02/2016 06:59:41 devpinoyLogger verifyTextinInput
+01/02/2016 06:59:41 devpinoyLogger Verifying the text in input box
+01/02/2016 06:59:41 devpinoyLogger Pass
+01/02/2016 06:59:41 devpinoyLogger verifyTextinInput
+01/02/2016 06:59:41 devpinoyLogger Verifying the text in input box
+01/02/2016 06:59:41 devpinoyLogger Pass
+01/02/2016 06:59:41 devpinoyLogger verifyButtonText
+01/02/2016 06:59:41 devpinoyLogger Verifying the button text
+01/02/2016 06:59:41 devpinoyLogger Pass
+01/02/2016 06:59:41 devpinoyLogger clickButton
+01/02/2016 06:59:41 devpinoyLogger Clicking on Button
+01/02/2016 06:59:50 devpinoyLogger Pass
+01/02/2016 06:59:50 devpinoyLogger pause
+01/02/2016 06:59:50 devpinoyLogger Waiting
+01/02/2016 06:59:55 devpinoyLogger Pass
+01/02/2016 06:59:55 devpinoyLogger waitForElement
+01/02/2016 06:59:55 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 06:59:55 devpinoyLogger Pass
+01/02/2016 06:59:55 devpinoyLogger clickButton
+01/02/2016 06:59:55 devpinoyLogger Clicking on Button
+01/02/2016 06:59:55 devpinoyLogger Pass
+01/02/2016 06:59:55 devpinoyLogger pause
+01/02/2016 06:59:55 devpinoyLogger Waiting
+01/02/2016 07:00:00 devpinoyLogger Pass
+01/02/2016 07:00:00 devpinoyLogger waitForElement
+01/02/2016 07:00:00 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 07:00:00 devpinoyLogger Pass
+01/02/2016 07:00:00 devpinoyLogger clickButton
+01/02/2016 07:00:00 devpinoyLogger Clicking on Button
+01/02/2016 07:00:00 devpinoyLogger Pass
+01/02/2016 07:00:00 devpinoyLogger pause
+01/02/2016 07:00:00 devpinoyLogger Waiting
+01/02/2016 07:00:05 devpinoyLogger Pass
+01/02/2016 07:00:05 devpinoyLogger Right_Click_for_Clinical_Notes
+01/02/2016 07:00:05 devpinoyLogger Clicking Right Click
+01/02/2016 07:00:11 devpinoyLogger Pass
+01/02/2016 07:00:11 devpinoyLogger clickButton
+01/02/2016 07:00:11 devpinoyLogger Clicking on Button
+01/02/2016 07:00:17 devpinoyLogger Pass
+01/02/2016 07:00:17 devpinoyLogger clickButton
+01/02/2016 07:00:17 devpinoyLogger Clicking on Button
+01/02/2016 07:00:17 devpinoyLogger Pass
+01/02/2016 07:00:17 devpinoyLogger clickButton
+01/02/2016 07:00:17 devpinoyLogger Clicking on Button
+01/02/2016 07:00:18 devpinoyLogger Pass
+01/02/2016 07:00:18 devpinoyLogger pause
+01/02/2016 07:00:18 devpinoyLogger Waiting
+01/02/2016 07:00:21 devpinoyLogger Pass
+01/02/2016 07:00:21 devpinoyLogger scroll_down
+01/02/2016 07:00:21 devpinoyLogger scroll down to element
+01/02/2016 07:00:21 devpinoyLogger Pass
+01/02/2016 07:00:21 devpinoyLogger clickButton
+01/02/2016 07:00:21 devpinoyLogger Clicking on Button
+01/02/2016 07:00:21 devpinoyLogger Pass
+01/02/2016 07:00:21 devpinoyLogger pause
+01/02/2016 07:00:21 devpinoyLogger Waiting
+01/02/2016 07:00:24 devpinoyLogger Pass
+01/02/2016 07:00:24 devpinoyLogger clickButton
+01/02/2016 07:00:24 devpinoyLogger Clicking on Button
+01/02/2016 07:00:24 devpinoyLogger Pass
+01/02/2016 07:00:24 devpinoyLogger pause
+01/02/2016 07:00:24 devpinoyLogger Waiting
+01/02/2016 07:00:26 devpinoyLogger Pass
+01/02/2016 07:00:26 devpinoyLogger clickButton
+01/02/2016 07:00:26 devpinoyLogger Clicking on Button
+01/02/2016 07:00:27 devpinoyLogger Pass
+01/02/2016 07:00:27 devpinoyLogger clickButton
+01/02/2016 07:00:27 devpinoyLogger Clicking on Button
+01/02/2016 07:00:27 devpinoyLogger Pass
+01/02/2016 07:00:27 devpinoyLogger clickButton
+01/02/2016 07:00:27 devpinoyLogger Clicking on Button
+01/02/2016 07:00:27 devpinoyLogger Pass
+01/02/2016 07:00:27 devpinoyLogger pause
+01/02/2016 07:00:27 devpinoyLogger Waiting
+01/02/2016 07:00:29 devpinoyLogger Pass
+01/02/2016 07:00:29 devpinoyLogger clickButton
+01/02/2016 07:00:29 devpinoyLogger Clicking on Button
+01/02/2016 07:00:29 devpinoyLogger Pass
+01/02/2016 07:00:29 devpinoyLogger clickButton
+01/02/2016 07:00:29 devpinoyLogger Clicking on Button
+01/02/2016 07:00:29 devpinoyLogger Pass
+01/02/2016 07:00:29 devpinoyLogger pause
+01/02/2016 07:00:29 devpinoyLogger Waiting
+01/02/2016 07:00:39 devpinoyLogger Pass
+01/02/2016 07:00:39 devpinoyLogger clickButton
+01/02/2016 07:00:39 devpinoyLogger Clicking on Button
+01/02/2016 07:00:39 devpinoyLogger Pass
+01/02/2016 07:00:39 devpinoyLogger clickButton
+01/02/2016 07:00:39 devpinoyLogger Clicking on Button
+01/02/2016 07:00:39 devpinoyLogger Pass
+01/02/2016 07:00:39 devpinoyLogger clickButton
+01/02/2016 07:00:39 devpinoyLogger Clicking on Button
+01/02/2016 07:00:39 devpinoyLogger Pass
+01/02/2016 07:00:39 devpinoyLogger writeInInput
+01/02/2016 07:00:39 devpinoyLogger Writing in text box
+01/02/2016 07:00:39 devpinoyLogger Pass
+01/02/2016 07:00:39 devpinoyLogger pause
+01/02/2016 07:00:39 devpinoyLogger Waiting
+01/02/2016 07:00:42 devpinoyLogger Pass
+01/02/2016 07:00:42 devpinoyLogger clickButton
+01/02/2016 07:00:42 devpinoyLogger Clicking on Button
+01/02/2016 07:00:43 devpinoyLogger Pass
+01/02/2016 07:00:43 devpinoyLogger clickButton
+01/02/2016 07:00:43 devpinoyLogger Clicking on Button
+01/02/2016 07:00:43 devpinoyLogger Pass
+01/02/2016 07:00:43 devpinoyLogger clickButton
+01/02/2016 07:00:43 devpinoyLogger Clicking on Button
+01/02/2016 07:00:43 devpinoyLogger Pass
+01/02/2016 07:00:43 devpinoyLogger pause
+01/02/2016 07:00:43 devpinoyLogger Waiting
+01/02/2016 07:00:46 devpinoyLogger Pass
+01/02/2016 07:00:46 devpinoyLogger writeInInput
+01/02/2016 07:00:46 devpinoyLogger Writing in text box
+01/02/2016 07:00:46 devpinoyLogger Pass
+01/02/2016 07:00:46 devpinoyLogger clickButton
+01/02/2016 07:00:46 devpinoyLogger Clicking on Button
+01/02/2016 07:00:46 devpinoyLogger Pass
+01/02/2016 07:00:46 devpinoyLogger pause
+01/02/2016 07:00:46 devpinoyLogger Waiting
+01/02/2016 07:00:48 devpinoyLogger Pass
+01/02/2016 07:00:48 devpinoyLogger clickButton
+01/02/2016 07:00:48 devpinoyLogger Clicking on Button
+01/02/2016 07:00:48 devpinoyLogger Pass
+01/02/2016 07:00:48 devpinoyLogger pause
+01/02/2016 07:00:48 devpinoyLogger Waiting
+01/02/2016 07:00:51 devpinoyLogger Pass
+01/02/2016 07:00:51 devpinoyLogger closeBroswer
+01/02/2016 07:00:51 devpinoyLogger Closing the browser
+01/02/2016 07:00:52 devpinoyLogger Pass
+01/02/2016 07:00:54 devpinoyLogger Spectacle_Rx--Y
+01/02/2016 07:00:54 devpinoyLogger Exceution of test case   Spectacle_Rx
+01/02/2016 07:00:54 devpinoyLogger openBrowser
+01/02/2016 07:00:54 devpinoyLogger Opening the browser
+01/02/2016 07:01:00 devpinoyLogger Pass
+01/02/2016 07:01:00 devpinoyLogger navigate
+01/02/2016 07:01:00 devpinoyLogger Navigating to URL
+01/02/2016 07:01:06 devpinoyLogger Pass
+01/02/2016 07:01:06 devpinoyLogger writeInInput
+01/02/2016 07:01:06 devpinoyLogger Writing in text box
+01/02/2016 07:01:06 devpinoyLogger Pass
+01/02/2016 07:01:06 devpinoyLogger writeInInput
+01/02/2016 07:01:06 devpinoyLogger Writing in text box
+01/02/2016 07:01:06 devpinoyLogger Pass
+01/02/2016 07:01:06 devpinoyLogger verifyTextinInput
+01/02/2016 07:01:06 devpinoyLogger Verifying the text in input box
+01/02/2016 07:01:06 devpinoyLogger Pass
+01/02/2016 07:01:06 devpinoyLogger verifyTextinInput
+01/02/2016 07:01:06 devpinoyLogger Verifying the text in input box
+01/02/2016 07:01:06 devpinoyLogger Pass
+01/02/2016 07:01:06 devpinoyLogger verifyButtonText
+01/02/2016 07:01:06 devpinoyLogger Verifying the button text
+01/02/2016 07:01:06 devpinoyLogger Pass
+01/02/2016 07:01:06 devpinoyLogger clickButton
+01/02/2016 07:01:06 devpinoyLogger Clicking on Button
+01/02/2016 07:01:14 devpinoyLogger Pass
+01/02/2016 07:01:14 devpinoyLogger pause
+01/02/2016 07:01:14 devpinoyLogger Waiting
+01/02/2016 07:01:19 devpinoyLogger Pass
+01/02/2016 07:01:19 devpinoyLogger waitForElement
+01/02/2016 07:01:19 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 07:01:19 devpinoyLogger Pass
+01/02/2016 07:01:19 devpinoyLogger clickButton
+01/02/2016 07:01:19 devpinoyLogger Clicking on Button
+01/02/2016 07:01:19 devpinoyLogger Pass
+01/02/2016 07:01:19 devpinoyLogger pause
+01/02/2016 07:01:19 devpinoyLogger Waiting
+01/02/2016 07:01:24 devpinoyLogger Pass
+01/02/2016 07:01:24 devpinoyLogger waitForElement
+01/02/2016 07:01:24 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 07:01:24 devpinoyLogger Pass
+01/02/2016 07:01:24 devpinoyLogger clickButton
+01/02/2016 07:01:24 devpinoyLogger Clicking on Button
+01/02/2016 07:01:24 devpinoyLogger Pass
+01/02/2016 07:01:24 devpinoyLogger pause
+01/02/2016 07:01:24 devpinoyLogger Waiting
+01/02/2016 07:01:29 devpinoyLogger Pass
+01/02/2016 07:01:29 devpinoyLogger Right_Click_for_Clinical_Notes
+01/02/2016 07:01:29 devpinoyLogger Clicking Right Click
+01/02/2016 07:01:35 devpinoyLogger Pass
+01/02/2016 07:01:35 devpinoyLogger pause
+01/02/2016 07:01:35 devpinoyLogger Waiting
+01/02/2016 07:01:38 devpinoyLogger Pass
+01/02/2016 07:01:38 devpinoyLogger clickButton
+01/02/2016 07:01:38 devpinoyLogger Clicking on Button
+01/02/2016 07:01:45 devpinoyLogger Pass
+01/02/2016 07:01:45 devpinoyLogger clickButton
+01/02/2016 07:01:45 devpinoyLogger Clicking on Button
+01/02/2016 07:01:46 devpinoyLogger Pass
+01/02/2016 07:01:46 devpinoyLogger clickButton
+01/02/2016 07:01:46 devpinoyLogger Clicking on Button
+01/02/2016 07:01:46 devpinoyLogger Pass
+01/02/2016 07:01:46 devpinoyLogger pause
+01/02/2016 07:01:46 devpinoyLogger Waiting
+01/02/2016 07:01:49 devpinoyLogger Pass
+01/02/2016 07:01:49 devpinoyLogger scroll_down
+01/02/2016 07:01:49 devpinoyLogger scroll down to element
+01/02/2016 07:01:49 devpinoyLogger Pass
+01/02/2016 07:01:49 devpinoyLogger pause
+01/02/2016 07:01:49 devpinoyLogger Waiting
+01/02/2016 07:01:52 devpinoyLogger Pass
+01/02/2016 07:01:52 devpinoyLogger clickButton
+01/02/2016 07:01:52 devpinoyLogger Clicking on Button
+01/02/2016 07:01:52 devpinoyLogger Pass
+01/02/2016 07:01:52 devpinoyLogger pause
+01/02/2016 07:01:52 devpinoyLogger Waiting
+01/02/2016 07:01:58 devpinoyLogger Pass
+01/02/2016 07:01:58 devpinoyLogger clickButton
+01/02/2016 07:01:58 devpinoyLogger Clicking on Button
+01/02/2016 07:01:58 devpinoyLogger Pass
+01/02/2016 07:01:58 devpinoyLogger pause
+01/02/2016 07:01:58 devpinoyLogger Waiting
+01/02/2016 07:02:01 devpinoyLogger Pass
+01/02/2016 07:02:01 devpinoyLogger Refracted_values
+01/02/2016 07:02:01 devpinoyLogger Entering Refracted values 
+01/02/2016 07:02:03 devpinoyLogger Clicking on Button
+01/02/2016 07:02:04 devpinoyLogger Clicking on Button
+01/02/2016 07:02:05 devpinoyLogger Clicking on Button
+01/02/2016 07:02:06 devpinoyLogger Clicking on Button
+01/02/2016 07:02:07 devpinoyLogger Clicking on Button
+01/02/2016 07:02:08 devpinoyLogger Clicking on Button
+01/02/2016 07:02:09 devpinoyLogger Clicking on Button
+01/02/2016 07:02:10 devpinoyLogger Clicking on Button
+01/02/2016 07:02:11 devpinoyLogger Clicking on Button
+01/02/2016 07:02:13 devpinoyLogger Clicking on Button
+01/02/2016 07:02:14 devpinoyLogger Clicking on Button
+01/02/2016 07:02:15 devpinoyLogger Clicking on Button
+01/02/2016 07:02:16 devpinoyLogger Clicking on Button
+01/02/2016 07:02:17 devpinoyLogger Clicking on Button
+01/02/2016 07:02:18 devpinoyLogger Clicking on Button
+01/02/2016 07:02:19 devpinoyLogger Clicking on Button
+01/02/2016 07:02:20 devpinoyLogger Clicking on Button
+01/02/2016 07:02:21 devpinoyLogger Clicking on Button
+01/02/2016 07:02:22 devpinoyLogger Clicking on Button
+01/02/2016 07:02:24 devpinoyLogger Clicking on Button
+01/02/2016 07:02:25 devpinoyLogger Clicking on Button
+01/02/2016 07:02:26 devpinoyLogger Clicking on Button
+01/02/2016 07:02:26 devpinoyLogger Pass
+01/02/2016 07:02:26 devpinoyLogger pause
+01/02/2016 07:02:26 devpinoyLogger Waiting
+01/02/2016 07:02:28 devpinoyLogger Pass
+01/02/2016 07:02:28 devpinoyLogger writeInInput
+01/02/2016 07:02:28 devpinoyLogger Writing in text box
+01/02/2016 07:02:28 devpinoyLogger Pass
+01/02/2016 07:02:28 devpinoyLogger clickButton
+01/02/2016 07:02:28 devpinoyLogger Clicking on Button
+01/02/2016 07:02:28 devpinoyLogger Pass
+01/02/2016 07:02:28 devpinoyLogger clickButton
+01/02/2016 07:02:28 devpinoyLogger Clicking on Button
+01/02/2016 07:02:28 devpinoyLogger Pass
+01/02/2016 07:02:28 devpinoyLogger clickButton
+01/02/2016 07:02:28 devpinoyLogger Clicking on Button
+01/02/2016 07:02:28 devpinoyLogger Pass
+01/02/2016 07:02:28 devpinoyLogger clickButton
+01/02/2016 07:02:28 devpinoyLogger Clicking on Button
+01/02/2016 07:02:28 devpinoyLogger Pass
+01/02/2016 07:02:28 devpinoyLogger clickButton
+01/02/2016 07:02:28 devpinoyLogger Clicking on Button
+01/02/2016 07:02:29 devpinoyLogger Pass
+01/02/2016 07:02:29 devpinoyLogger clickButton
+01/02/2016 07:02:29 devpinoyLogger Clicking on Button
+01/02/2016 07:02:29 devpinoyLogger Pass
+01/02/2016 07:02:29 devpinoyLogger clickButton
+01/02/2016 07:02:29 devpinoyLogger Clicking on Button
+01/02/2016 07:02:29 devpinoyLogger Pass
+01/02/2016 07:02:29 devpinoyLogger clickButton
+01/02/2016 07:02:29 devpinoyLogger Clicking on Button
+01/02/2016 07:02:29 devpinoyLogger Pass
+01/02/2016 07:02:29 devpinoyLogger click_and_clear
+01/02/2016 07:02:29 devpinoyLogger Clicking on any element
+01/02/2016 07:02:29 devpinoyLogger Pass
+01/02/2016 07:02:29 devpinoyLogger writeInInput
+01/02/2016 07:02:29 devpinoyLogger Writing in text box
+01/02/2016 07:02:29 devpinoyLogger Pass
+01/02/2016 07:02:29 devpinoyLogger clickButton
+01/02/2016 07:02:29 devpinoyLogger Clicking on Button
+01/02/2016 07:02:29 devpinoyLogger Pass
+01/02/2016 07:02:29 devpinoyLogger clickButton
+01/02/2016 07:02:29 devpinoyLogger Clicking on Button
+01/02/2016 07:02:29 devpinoyLogger Pass
+01/02/2016 07:02:29 devpinoyLogger click_and_clear
+01/02/2016 07:02:29 devpinoyLogger Clicking on any element
+01/02/2016 07:02:29 devpinoyLogger Pass
+01/02/2016 07:02:29 devpinoyLogger writeInInput
+01/02/2016 07:02:29 devpinoyLogger Writing in text box
+01/02/2016 07:02:29 devpinoyLogger Pass
+01/02/2016 07:02:29 devpinoyLogger clickButton
+01/02/2016 07:02:29 devpinoyLogger Clicking on Button
+01/02/2016 07:02:29 devpinoyLogger Pass
+01/02/2016 07:02:29 devpinoyLogger clickButton
+01/02/2016 07:02:29 devpinoyLogger Clicking on Button
+01/02/2016 07:02:29 devpinoyLogger Pass
+01/02/2016 07:02:29 devpinoyLogger writeInInput
+01/02/2016 07:02:29 devpinoyLogger Writing in text box
+01/02/2016 07:02:30 devpinoyLogger Pass
+01/02/2016 07:02:30 devpinoyLogger clickButton
+01/02/2016 07:02:30 devpinoyLogger Clicking on Button
+01/02/2016 07:02:30 devpinoyLogger Pass
+01/02/2016 07:02:30 devpinoyLogger clickButton
+01/02/2016 07:02:30 devpinoyLogger Clicking on Button
+01/02/2016 07:02:30 devpinoyLogger Pass
+01/02/2016 07:02:30 devpinoyLogger waitForElement
+01/02/2016 07:02:30 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 07:02:30 devpinoyLogger Pass
+01/02/2016 07:02:30 devpinoyLogger clickButton
+01/02/2016 07:02:30 devpinoyLogger Clicking on Button
+01/02/2016 07:02:30 devpinoyLogger Pass
+01/02/2016 07:02:30 devpinoyLogger pause
+01/02/2016 07:02:30 devpinoyLogger Waiting
+01/02/2016 07:02:32 devpinoyLogger Pass
+01/02/2016 07:02:32 devpinoyLogger clickButton
+01/02/2016 07:02:32 devpinoyLogger Clicking on Button
+01/02/2016 07:02:32 devpinoyLogger Pass
+01/02/2016 07:02:32 devpinoyLogger pause
+01/02/2016 07:02:32 devpinoyLogger Waiting
+01/02/2016 07:02:34 devpinoyLogger Pass
+01/02/2016 07:02:34 devpinoyLogger clickButton
+01/02/2016 07:02:34 devpinoyLogger Clicking on Button
+01/02/2016 07:02:34 devpinoyLogger Pass
+01/02/2016 07:02:34 devpinoyLogger pause
+01/02/2016 07:02:34 devpinoyLogger Waiting
+01/02/2016 07:02:36 devpinoyLogger Pass
+01/02/2016 07:02:36 devpinoyLogger clickButton
+01/02/2016 07:02:36 devpinoyLogger Clicking on Button
+01/02/2016 07:02:36 devpinoyLogger Pass
+01/02/2016 07:02:36 devpinoyLogger pause
+01/02/2016 07:02:36 devpinoyLogger Waiting
+01/02/2016 07:02:38 devpinoyLogger Pass
+01/02/2016 07:02:38 devpinoyLogger click_and_clear
+01/02/2016 07:02:38 devpinoyLogger Clicking on any element
+01/02/2016 07:02:38 devpinoyLogger Pass
+01/02/2016 07:02:38 devpinoyLogger writeInInput
+01/02/2016 07:02:38 devpinoyLogger Writing in text box
+01/02/2016 07:02:38 devpinoyLogger Pass
+01/02/2016 07:02:38 devpinoyLogger pause
+01/02/2016 07:02:38 devpinoyLogger Waiting
+01/02/2016 07:02:40 devpinoyLogger Pass
+01/02/2016 07:02:40 devpinoyLogger clickButton
+01/02/2016 07:02:40 devpinoyLogger Clicking on Button
+01/02/2016 07:02:40 devpinoyLogger Pass
+01/02/2016 07:02:40 devpinoyLogger clickButton
+01/02/2016 07:02:40 devpinoyLogger Clicking on Button
+01/02/2016 07:02:41 devpinoyLogger Pass
+01/02/2016 07:02:41 devpinoyLogger pause
+01/02/2016 07:02:41 devpinoyLogger Waiting
+01/02/2016 07:02:43 devpinoyLogger Pass
+01/02/2016 07:02:43 devpinoyLogger cover_distance_values
+01/02/2016 07:02:43 devpinoyLogger Entering cover distance values 
+01/02/2016 07:02:44 devpinoyLogger Clicking on Button
+01/02/2016 07:02:45 devpinoyLogger Clicking on Button
+01/02/2016 07:02:47 devpinoyLogger Clicking on Button
+01/02/2016 07:02:48 devpinoyLogger Clicking on Button
+01/02/2016 07:02:48 devpinoyLogger Pass
+01/02/2016 07:02:48 devpinoyLogger writeInInput
+01/02/2016 07:02:48 devpinoyLogger Writing in text box
+01/02/2016 07:02:48 devpinoyLogger Pass
+01/02/2016 07:02:48 devpinoyLogger clickButton
+01/02/2016 07:02:48 devpinoyLogger Clicking on Button
+01/02/2016 07:02:48 devpinoyLogger Pass
+01/02/2016 07:02:48 devpinoyLogger clickButton
+01/02/2016 07:02:48 devpinoyLogger Clicking on Button
+01/02/2016 07:02:48 devpinoyLogger Pass
+01/02/2016 07:02:48 devpinoyLogger pause
+01/02/2016 07:02:48 devpinoyLogger Waiting
+01/02/2016 07:02:51 devpinoyLogger Pass
+01/02/2016 07:02:51 devpinoyLogger clickButton
+01/02/2016 07:02:51 devpinoyLogger Clicking on Button
+01/02/2016 07:02:51 devpinoyLogger Pass
+01/02/2016 07:02:51 devpinoyLogger pause
+01/02/2016 07:02:51 devpinoyLogger Waiting
+01/02/2016 07:02:53 devpinoyLogger Pass
+01/02/2016 07:02:53 devpinoyLogger clickButton
+01/02/2016 07:02:53 devpinoyLogger Clicking on Button
+01/02/2016 07:02:53 devpinoyLogger Pass
+01/02/2016 07:02:53 devpinoyLogger clickButton
+01/02/2016 07:02:53 devpinoyLogger Clicking on Button
+01/02/2016 07:02:53 devpinoyLogger Pass
+01/02/2016 07:02:53 devpinoyLogger writeInInput
+01/02/2016 07:02:53 devpinoyLogger Writing in text box
+01/02/2016 07:02:54 devpinoyLogger Pass
+01/02/2016 07:02:54 devpinoyLogger clickButton
+01/02/2016 07:02:54 devpinoyLogger Clicking on Button
+01/02/2016 07:02:54 devpinoyLogger Pass
+01/02/2016 07:02:54 devpinoyLogger pause
+01/02/2016 07:02:54 devpinoyLogger Waiting
+01/02/2016 07:02:57 devpinoyLogger Pass
+01/02/2016 07:02:57 devpinoyLogger clickButton
+01/02/2016 07:02:57 devpinoyLogger Clicking on Button
+01/02/2016 07:02:57 devpinoyLogger Pass
+01/02/2016 07:02:57 devpinoyLogger phoria_distance_values
+01/02/2016 07:02:57 devpinoyLogger Entering phoria distance values 
+01/02/2016 07:02:58 devpinoyLogger Clicking on Button
+01/02/2016 07:02:59 devpinoyLogger Clicking on Button
+01/02/2016 07:03:00 devpinoyLogger Clicking on Button
+01/02/2016 07:03:01 devpinoyLogger Clicking on Button
+01/02/2016 07:03:01 devpinoyLogger Pass
+01/02/2016 07:03:01 devpinoyLogger pause
+01/02/2016 07:03:01 devpinoyLogger Waiting
+01/02/2016 07:03:03 devpinoyLogger Pass
+01/02/2016 07:03:03 devpinoyLogger pause
+01/02/2016 07:03:03 devpinoyLogger Waiting
+01/02/2016 07:03:06 devpinoyLogger Pass
+01/02/2016 07:03:06 devpinoyLogger clickButton
+01/02/2016 07:03:06 devpinoyLogger Clicking on Button
+01/02/2016 07:03:06 devpinoyLogger Pass
+01/02/2016 07:03:06 devpinoyLogger clickButton
+01/02/2016 07:03:06 devpinoyLogger Clicking on Button
+01/02/2016 07:03:06 devpinoyLogger Pass
+01/02/2016 07:03:06 devpinoyLogger cover_test_near_values
+01/02/2016 07:03:06 devpinoyLogger Entering cover test near values 
+01/02/2016 07:03:08 devpinoyLogger Clicking on Button
+01/02/2016 07:03:09 devpinoyLogger Clicking on Button
+01/02/2016 07:03:10 devpinoyLogger Clicking on Button
+01/02/2016 07:03:11 devpinoyLogger Clicking on Button
+01/02/2016 07:03:11 devpinoyLogger Pass
+01/02/2016 07:03:11 devpinoyLogger writeInInput
+01/02/2016 07:03:11 devpinoyLogger Writing in text box
+01/02/2016 07:03:11 devpinoyLogger Pass
+01/02/2016 07:03:11 devpinoyLogger clickButton
+01/02/2016 07:03:11 devpinoyLogger Clicking on Button
+01/02/2016 07:03:11 devpinoyLogger Pass
+01/02/2016 07:03:11 devpinoyLogger scroll_down
+01/02/2016 07:03:11 devpinoyLogger scroll down to element
+01/02/2016 07:03:11 devpinoyLogger Pass
+01/02/2016 07:03:11 devpinoyLogger clickButton
+01/02/2016 07:03:11 devpinoyLogger Clicking on Button
+01/02/2016 07:03:12 devpinoyLogger Pass
+01/02/2016 07:03:12 devpinoyLogger pause
+01/02/2016 07:03:12 devpinoyLogger Waiting
+01/02/2016 07:03:15 devpinoyLogger Pass
+01/02/2016 07:03:15 devpinoyLogger closeBroswer
+01/02/2016 07:03:15 devpinoyLogger Closing the browser
+01/02/2016 07:03:16 devpinoyLogger Pass
+01/02/2016 07:03:21 devpinoyLogger Contact_lens--Y
+01/02/2016 07:03:21 devpinoyLogger Exceution of test case   Contact_lens
+01/02/2016 07:03:21 devpinoyLogger openBrowser
+01/02/2016 07:03:21 devpinoyLogger Opening the browser
+01/02/2016 07:03:34 devpinoyLogger Pass
+01/02/2016 07:03:34 devpinoyLogger navigate
+01/02/2016 07:03:34 devpinoyLogger Navigating to URL
+01/02/2016 07:03:39 devpinoyLogger Pass
+01/02/2016 07:03:39 devpinoyLogger writeInInput
+01/02/2016 07:03:39 devpinoyLogger Writing in text box
+01/02/2016 07:03:40 devpinoyLogger Pass
+01/02/2016 07:03:40 devpinoyLogger writeInInput
+01/02/2016 07:03:40 devpinoyLogger Writing in text box
+01/02/2016 07:03:40 devpinoyLogger Pass
+01/02/2016 07:03:40 devpinoyLogger verifyTextinInput
+01/02/2016 07:03:40 devpinoyLogger Verifying the text in input box
+01/02/2016 07:03:40 devpinoyLogger Pass
+01/02/2016 07:03:40 devpinoyLogger verifyTextinInput
+01/02/2016 07:03:40 devpinoyLogger Verifying the text in input box
+01/02/2016 07:03:40 devpinoyLogger Pass
+01/02/2016 07:03:40 devpinoyLogger verifyButtonText
+01/02/2016 07:03:40 devpinoyLogger Verifying the button text
+01/02/2016 07:03:40 devpinoyLogger Pass
+01/02/2016 07:03:40 devpinoyLogger clickButton
+01/02/2016 07:03:40 devpinoyLogger Clicking on Button
+01/02/2016 07:03:48 devpinoyLogger Pass
+01/02/2016 07:03:48 devpinoyLogger pause
+01/02/2016 07:03:48 devpinoyLogger Waiting
+01/02/2016 07:03:53 devpinoyLogger Pass
+01/02/2016 07:03:53 devpinoyLogger waitForElement
+01/02/2016 07:03:53 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 07:03:53 devpinoyLogger Pass
+01/02/2016 07:03:53 devpinoyLogger clickButton
+01/02/2016 07:03:53 devpinoyLogger Clicking on Button
+01/02/2016 07:03:53 devpinoyLogger Pass
+01/02/2016 07:03:53 devpinoyLogger pause
+01/02/2016 07:03:53 devpinoyLogger Waiting
+01/02/2016 07:03:58 devpinoyLogger Pass
+01/02/2016 07:03:58 devpinoyLogger waitForElement
+01/02/2016 07:03:58 devpinoyLogger Waiting for Element, explicit wait 
+01/02/2016 07:03:58 devpinoyLogger Pass
+01/02/2016 07:03:58 devpinoyLogger clickButton
+01/02/2016 07:03:58 devpinoyLogger Clicking on Button
+01/02/2016 07:03:58 devpinoyLogger Pass
+01/02/2016 07:03:58 devpinoyLogger pause
+01/02/2016 07:03:58 devpinoyLogger Waiting
+01/02/2016 07:04:03 devpinoyLogger Pass
+01/02/2016 07:04:03 devpinoyLogger Right_Click_for_Clinical_Notes
+01/02/2016 07:04:03 devpinoyLogger Clicking Right Click
+01/02/2016 07:04:09 devpinoyLogger Pass
+01/02/2016 07:04:09 devpinoyLogger pause
+01/02/2016 07:04:09 devpinoyLogger Waiting
+01/02/2016 07:04:12 devpinoyLogger Pass
+01/02/2016 07:04:12 devpinoyLogger clickButton
+01/02/2016 07:04:12 devpinoyLogger Clicking on Button
+01/02/2016 07:04:14 devpinoyLogger Pass
+01/02/2016 07:04:14 devpinoyLogger clickButton
+01/02/2016 07:04:14 devpinoyLogger Clicking on Button
+01/02/2016 07:04:14 devpinoyLogger Pass
+01/02/2016 07:04:14 devpinoyLogger clickButton
+01/02/2016 07:04:14 devpinoyLogger Clicking on Button
+01/02/2016 07:04:14 devpinoyLogger Pass
+01/02/2016 07:04:14 devpinoyLogger pause
+01/02/2016 07:04:14 devpinoyLogger Waiting
+01/02/2016 07:04:17 devpinoyLogger Pass
+01/02/2016 07:04:17 devpinoyLogger scroll_down
+01/02/2016 07:04:17 devpinoyLogger scroll down to element
+01/02/2016 07:04:17 devpinoyLogger Pass
+01/02/2016 07:04:17 devpinoyLogger pause
+01/02/2016 07:04:17 devpinoyLogger Waiting
+01/02/2016 07:04:20 devpinoyLogger Pass
+01/02/2016 07:04:20 devpinoyLogger clickButton
+01/02/2016 07:04:20 devpinoyLogger Clicking on Button
+01/02/2016 07:04:20 devpinoyLogger Pass
